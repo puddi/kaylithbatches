@@ -428,8 +428,8 @@ Dialogue: 0,0:22:58.52,0:23:04.65,ED-EngBord,,0,0,0,,{\fad(200,200)\be2}I want t
 Dialogue: 0,0:23:04.65,0:23:09.65,ED-EngBord,,0,0,0,,{\fad(200,200)\be2}I've been searching for the words to say...
 Dialogue: 0,0:23:09.65,0:23:14.03,ED-EngBord,,0,0,0,,{\fad(200,200)\be2}The words that mean goodbye.
 Comment: 0,0:02:56.03,0:02:58.03,Signs,,0,0,0,,TS
-Dialogue: 0,0:02:58.03,0:03:01.86,Signs,,0,0,0,,{\bord10\fs73\be41\1aH&28&\blur1\shad0\fsp-0.6\fad(0,0)\an1\c&HEFF9FF&\fnFaraco Hand\p1\pos(608.6,320.067)\3c&HEFF9FF&}m -130 374 b -151 386 -151 415 -130 427 b -26 427 80 427 183 426 b 204 415 204 386 183 374
-Dialogue: 1,0:02:58.03,0:03:01.86,Signs,,0,0,0,,{\bord0\fs73\blur0.5\1aH&20&\shad0\fsp-0.6\fad(0,0)\an1\c&H535B5E&\fnFaraco Hand\pos(473.182,698.537)}#1 - becoming friends
+Dialogue: 0,0:02:58.03,0:03:01.86,Signs,,0,0,0,,{\bord10\fs73\be41\1a&H28&\blur1\shad0\fsp-0.6\fad(0,0)\an1\c&HEFF9FF&\fnFaraco Hand\p1\pos(608.6,320.067)\3c&HEFF9FF&}m -130 374 b -151 386 -151 415 -130 427 b -26 427 80 427 183 426 b 204 415 204 386 183 374
+Dialogue: 1,0:02:58.03,0:03:01.86,Signs,,0,0,0,,{\bord0\fs73\blur0.5\1a&H20&\shad0\fsp-0.6\fad(0,0)\an1\c&H535B5E&\fnFaraco Hand\pos(473.182,698.537)}#1 - becoming friends
 Dialogue: 0,0:05:30.35,0:05:32.85,Signs,,0,0,0,,{\bord0\be4\shad0\c&HFEFFFC&\b1\fs32\fscy120\p1\pos(749.943,335.086)}m -71 256 b -49 256 -33 259 -17 265 b 1 243 41 245 65 264 b 94 241 116 250 133 258 b 152 284 146 315 126 321 b 122 324 94 336 65 312 b 48 338 13 334 -17 307 b -41 336 -70 322 -90 320 b -113 296 -110 257 -73 258
 Dialogue: 1,0:05:30.35,0:05:32.85,Signs,,0,0,0,,{\bord0\shad0\c&H262626&\fsp2\blur0.8\fnCF Rise of Nations\fs48\fscx110\fscy120\pos(642,592)}tuesday
 Dialogue: 0,0:09:33.13,0:09:35.59,Signs,,0,0,0,,{\bord0\be4\shad0\c&HFFFFFE&\b1\fs32\fscy120\p1\pos(749.943,335.086)}m -71 256 b -49 256 -33 259 -17 265 b 1 243 41 245 65 264 b 94 241 116 250 133 258 b 152 284 146 315 126 321 b 122 324 94 336 65 312 b 48 338 13 334 -17 307 b -41 336 -70 322 -90 320 b -113 296 -110 257 -73 258
