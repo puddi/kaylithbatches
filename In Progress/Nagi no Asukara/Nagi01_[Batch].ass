@@ -8,8 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
-Aegisub Scroll Position: 208
-Aegisub Active Line: 241
+Aegisub Scroll Position: 654
+Aegisub Active Line: 680
 Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
@@ -714,7 +714,7 @@ Dialogue: 0,0:22:48.47,0:22:52.93,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}but you can
 Dialogue: 0,0:22:55.39,0:23:02.98,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}In the warm water full of floating detritus,
 Dialogue: 0,0:23:02.98,0:23:11.16,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}I tirelessly wrap around you.
 Dialogue: 0,0:23:11.16,0:23:19.25,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}I'll watch over you as your shell while you sleep
-Dialogue: 0,0:23:19.25,0:23:27.80,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}so no-one else can reach your heart.
+Dialogue: 0,0:23:19.25,0:23:27.80,ED1-Eng,,0,0,0,,{\fad(200,200)\be2}so no one else can reach your heart.
 Dialogue: 0,0:23:27.80,0:23:29.80,Default,,0,0,0,,
 Dialogue: 3,0:21:59.00,0:21:59.57,ED1-Rom,,0,0,0,fx,{\pos(390,49)\an5\fad(200,0)\be2}a
 Dialogue: 3,0:21:59.57,0:22:06.27,ED1-Rom,,0,0,0,fx,{\pos(390,49)\an5\fad(0,200)\t(0,260,\1c&HFFFFFF&)\be2\}a
