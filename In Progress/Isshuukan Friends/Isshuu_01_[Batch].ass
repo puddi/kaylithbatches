@@ -11,13 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../../../../../Fansubbing/Kaylith/Isshuukan Friends/01/feels 1 premux take 1[1B973C48].mkv
 Video File: ../../../../../../../Fansubbing/Kaylith/Isshuukan Friends/01/feels 1 premux take 1[1B973C48].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 724
-Active Line: 735
-Video Position: 33198
+Video Zoom Percent: 0.625000
+Scroll Position: 720
+Active Line: 733
+Video Position: 25201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,299 +35,299 @@ Style: Signs,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 9,0:00:07.90,0:00:09.13,Isshuu-Main,Yuuki,0,0,0,,Wait up!
-Dialogue: 9,0:00:15.01,0:00:15.85,Isshuu-Main,Yuuki,0,0,0,,Um...
-Dialogue: 9,0:00:16.20,0:00:16.87,Isshuu-Main,Yuuki,0,0,0,,If it's all right...
-Dialogue: 9,0:00:17.55,0:00:18.41,Isshuu-Main,Yuuki,0,0,0,,would you...
-Dialogue: 9,0:00:20.49,0:00:22.66,Isshuu-Main,Yuuki,0,0,0,,Would you please be my friend?
-Dialogue: 9,0:00:34.39,0:00:35.00,Isshuu-Main,Kaori,0,0,0,,I'm...
-Dialogue: 9,0:00:36.40,0:00:37.10,Isshuu-Main,Yuuki,0,0,0,,I'm?
-Dialogue: 9,0:00:38.12,0:00:40.08,Isshuu-Main,Kaori,0,0,0,,I'm really happy, but sorry! {F257: Skipping the U-  U? before this?}
-Dialogue: 9,0:00:43.23,0:00:45.25,Isshuu-Main,Yuuki,0,0,0,,{\i1}If she's happy, then why...
-Dialogue: 9,0:00:49.75,0:00:52.91,Isshuu-Main,Yuuki,0,0,0,,{\i1}It may seem obvious, but back then,
-Dialogue: 9,0:00:53.61,0:00:56.92,Isshuu-Main,Yuuki,0,0,0,,{\i1}I didn't know anything about Fujimiya-san's secret.
-Dialogue: 9,0:01:08.75,0:01:12.26,Isshuu-Main,Yuuki,0,0,0,,{\i1}Why she was always alone.
-Dialogue: 9,0:01:15.26,0:01:18.97,Isshuu-Main,Yuuki,0,0,0,,{\i1}Why she never tried to make friends.
-Dialogue: 9,0:01:22.50,0:01:25.47,Isshuu-Main,Yuuki,0,0,0,,{\i1}I didn't know anything.
-Comment: 9,0:01:28.53,0:02:55.04,Isshuu-Main,,0,0,0,,OP
-Dialogue: 9,0:03:06.04,0:03:07.08,Isshuu-Main,Yuuki,0,0,0,,I'm back.
-Dialogue: 9,0:03:27.58,0:03:29.68,Isshuu-Main,Shougo,0,0,0,,What's up with you?
-Dialogue: 9,0:03:31.39,0:03:33.77,Isshuu-Main,Yuuki,0,0,0,,I tried talking to Fujimiya-san.
-Dialogue: 9,0:03:35.09,0:03:38.02,Isshuu-Main,Shougo,0,0,0,,Good for you. You can die happy now.
-Dialogue: 9,0:03:38.86,0:03:42.28,Isshuu-Main,Shougo,0,0,0,,You've been going on and on about how you want to talk to her...
-Dialogue: 9,0:03:42.72,0:03:44.28,Isshuu-Main,Yuuki,0,0,0,,She turned me down though.
-Dialogue: 9,0:03:45.31,0:03:46.16,Isshuu-Main,Shougo,0,0,0,,Huh?
-Dialogue: 9,0:03:46.57,0:03:48.70,Isshuu-Main,Yuuki,0,0,0,,I asked her if she wanted to be friends.
-Dialogue: 9,0:03:48.70,0:03:49.83,Isshuu-Main,Shougo,0,0,0,,You said it, huh?
-Dialogue: 9,0:03:50.23,0:03:52.46,Isshuu-Main,Yuuki,0,0,0,,and she replied, "I'm really happy, but sorry!"...
-Dialogue: 9,0:03:52.81,0:03:55.54,Isshuu-Main,Yuuki,0,0,0,,What's that supposed to mean, Shougo?
-Dialogue: 9,0:03:55.54,0:03:57.09,Isshuu-Main,Shougo,0,0,0,,Hell if I know.
-Dialogue: 9,0:03:57.52,0:03:59.13,Isshuu-Main,Yuuki,0,0,0,,You're so cruel!
-Dialogue: 9,0:03:59.13,0:04:01.42,Isshuu-Main,Shougo,0,0,0,,And you're so annoying...
-Dialogue: 9,0:04:02.41,0:04:06.47,Isshuu-Main,Shougo,0,0,0,,Well, that'd be her way of politely rejecting you, I guess.
-Dialogue: 9,0:04:06.47,0:04:09.42,Isshuu-Main,Yuuki,0,0,0,,You think? Maybe you're right...
-Dialogue: 9,0:04:14.20,0:04:18.11,Isshuu-Main,Shougo,0,0,0,,If you're that hung up about it, why not just ask her?
-Dialogue: 9,0:04:18.49,0:04:21.18,Isshuu-Main,Shougo,0,0,0,,She was heading towards the roof earlier.
-Dialogue: 9,0:04:26.94,0:04:27.66,Isshuu-Main,Shougo,0,0,0,,Hold on.
-Dialogue: 9,0:04:28.67,0:04:31.55,Isshuu-Main,Shougo,0,0,0,,The roof's usually locked, isn't it?
-Dialogue: 9,0:04:44.27,0:04:45.34,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
-Dialogue: 9,0:04:48.79,0:04:50.06,Isshuu-Main,Kaori,0,0,0,,Hase-kun?
-Dialogue: 9,0:04:51.23,0:04:54.79,Isshuu-Main,Yuuki,0,0,0,,So this is where you always go for lunch, huh?
-Dialogue: 9,0:04:57.81,0:04:59.17,Isshuu-Main,Yuuki,0,0,0,,U-Uh...
-Dialogue: 9,0:04:59.17,0:05:02.28,Isshuu-Main,Yuuki,0,0,0,,Wh-Whoa, what a great view!
-Dialogue: 9,0:05:02.76,0:05:05.78,Isshuu-Main,Yuuki,0,0,0,,It's my first time coming up here, so I had no idea!
-Dialogue: 9,0:05:06.25,0:05:08.40,Isshuu-Main,Yuuki,0,0,0,,There's nobody here, so it's nice and quiet, too!{nice job being the problem}
-Dialogue: 9,0:05:08.40,0:05:09.67,Isshuu-Main,Yuuki,0,0,0,,What a find!{lit special seat}
-Dialogue: 9,0:05:11.74,0:05:12.81,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san?
-Dialogue: 9,0:05:13.96,0:05:17.55,Isshuu-Main,Yuuki,0,0,0,,Do you have a cold or something?
-Dialogue: 9,0:05:17.55,0:05:19.34,Isshuu-Main,Yuuki,0,0,0,,You were coughing earlier, too.
-Dialogue: 9,0:05:32.85,0:05:34.37,Isshuu-Main,Girl,0,0,0,,C'mon, go ask her...
-Dialogue: 9,0:05:34.37,0:05:35.76,Isshuu-Main,Saki,0,0,0,,Really? {F257: SAKI!}
-Dialogue: 9,0:05:37.47,0:05:39.44,Isshuu-Main,Saki,0,0,0,,Hey, Fujimiya-san...
-Dialogue: 9,0:05:40.85,0:05:41.60,Isshuu-Main,Kaori,0,0,0,,Yes?
-Dialogue: 9,0:05:42.42,0:05:45.15,Isshuu-Main,Saki,0,0,0,,You're the math representative, right?
-Dialogue: 9,0:05:45.61,0:05:48.75,Isshuu-Main,Saki,0,0,0,,I forgot to turn in my math homework yesterday.
-Dialogue: 9,0:05:48.75,0:05:52.34,Isshuu-Main,Saki,0,0,0,,Can you talk to the teacher and turn it in for me?{denpa: puddi pls}
-Dialogue: 9,0:05:53.55,0:05:54.22,Isshuu-Main,Kaori,0,0,0,,Sorry.
-Dialogue: 9,0:05:56.15,0:05:57.67,Isshuu-Main,Saki,0,0,0,,See? I told you.
-Dialogue: 9,0:05:58.71,0:06:01.54,Isshuu-Main,Girl,0,0,0,,She's really cold, isn't she?
-Dialogue: 9,0:06:01.98,0:06:03.48,Isshuu-Main,Girl,0,0,0,,What's with her attitude?
-Dialogue: 9,0:06:13.68,0:06:15.86,Isshuu-Main,Yuuki,0,0,0,,The weather's nice today, isn't it?
-Dialogue: 9,0:06:15.86,0:06:17.02,Isshuu-Main,Yuuki,0,0,0,,Or is it just me?
-Dialogue: 9,0:06:20.19,0:06:21.86,Isshuu-Main,Yuuki,0,0,0,,Mind if I eat up here?
-Dialogue: 9,0:06:22.20,0:06:25.45,Isshuu-Main,Yuuki,0,0,0,,My friend ate without me and fell asleep.
-Dialogue: 9,0:06:26.94,0:06:27.99,Isshuu-Main,Kaori,0,0,0,,Why...
-Dialogue: 9,0:06:28.75,0:06:29.66,Isshuu-Main,Yuuki,0,0,0,,Why what?
-Dialogue: 9,0:06:32.07,0:06:34.26,Isshuu-Main,Yuuki,0,0,0,,We've got P.E. during fifth period, right?
-Dialogue: 9,0:06:34.91,0:06:37.77,Isshuu-Main,Yuuki,0,0,0,,Having it in the afternoon kinda sucks...
-Dialogue: 9,0:06:37.77,0:06:38.72,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
-Dialogue: 9,0:06:39.25,0:06:39.99,Isshuu-Main,Yuuki,0,0,0,,What's up?
-Dialogue: 9,0:06:41.21,0:06:44.21,Isshuu-Main,Kaori,0,0,0,,I can't be friends with anyone.
-Dialogue: 9,0:06:44.64,0:06:46.95,Isshuu-Main,Yuuki,0,0,0,,Huh? What do you mean?
-Dialogue: 9,0:06:47.58,0:06:49.95,Isshuu-Main,Yuuki,0,0,0,,Did someone tell you not to?
-Dialogue: 9,0:06:49.95,0:06:51.28,Isshuu-Main,Kaori,0,0,0,,That's not it...
-Dialogue: 9,0:06:51.28,0:06:56.52,Isshuu-Main,Yuuki,0,0,0,,Are your parents really strict, telling you to focus on school rather than friends?
-Dialogue: 9,0:06:56.93,0:06:59.90,Isshuu-Main,Kaori,0,0,0,,It's not that someone told me not to.
-Dialogue: 9,0:06:59.90,0:07:01.44,Isshuu-Main,Yuuki,0,0,0,,Then why?
-Dialogue: 9,0:07:01.44,0:07:02.40,Isshuu-Main,Kaori,0,0,0,,It's just...
-Dialogue: 9,0:07:03.02,0:07:03.68,Isshuu-Main,Kaori,0,0,0,,It's...
-Dialogue: 9,0:07:04.90,0:07:06.36,Isshuu-Main,Kaori,0,0,0,,just impossible.
-Dialogue: 9,0:07:07.75,0:07:10.33,Isshuu-Main,Kaori,0,0,0,,I'm really sorry.
-Dialogue: 9,0:07:14.30,0:07:16.37,Isshuu-Main,Yuuki,0,0,0,,You weren't actually sick yesterday, were you?
-Dialogue: 9,0:07:17.91,0:07:19.97,Isshuu-Main,Yuuki,0,0,0,,Why didn't you keep up the act?
-Dialogue: 9,0:07:19.97,0:07:21.99,Isshuu-Main,Kaori,0,0,0,,W-Well...
-Dialogue: 9,0:07:22.58,0:07:24.50,Isshuu-Main,Yuuki,0,0,0,,And why did you thank me afterwards?
-Dialogue: 9,0:07:33.86,0:07:35.77,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san, you must be—
-Dialogue: 9,0:07:39.66,0:07:42.15,Isshuu-Main,Yuuki,0,0,0,,You must be really good at math. That's why—
-Dialogue: 9,0:07:45.07,0:07:48.03,Isshuu-Main,Yuuki,0,0,0,,Do you have a cold? Want me to carry those for you?{dem fake coughs}
-Dialogue: 9,0:07:52.61,0:07:54.56,Isshuu-Main,Yuuki,0,0,0,,Sorry for bothering.
-Dialogue: 9,0:07:59.04,0:08:00.04,Isshuu-Main,Kaori,0,0,0,,Um...
-Dialogue: 9,0:08:00.04,0:08:01.16,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
-Dialogue: 9,0:08:04.86,0:08:06.38,Isshuu-Main,Kaori,0,0,0,,Uh...
-Dialogue: 9,0:08:07.25,0:08:08.63,Isshuu-Main,Kaori,0,0,0,,Thank you...
-Dialogue: 9,0:08:09.63,0:08:12.17,Isshuu-Main,Kaori,0,0,0,,for helping out.
-Dialogue: 9,0:08:14.53,0:08:16.85,Isshuu-Main,Kaori,0,0,0,,B-Bye. {F257: Kinda want to split this since a lot of time in between, but not sure how to. QCs?}{denpa: i'm not sure what it'd be split to, so leaving as is}
-Dialogue: 9,0:08:17.52,0:08:18.68,Isshuu-Main,Yuuki,0,0,0,,Wait up!{i.e., this scene happens before the pre-OP scene}
-Dialogue: 9,0:08:21.55,0:08:27.60,Isshuu-Main,Yuuki,0,0,0,,If you'd kept giving me the cold shoulder, I wouldn't have said that.
-Dialogue: 9,0:08:29.10,0:08:30.77,Isshuu-Main,Yuuki,0,0,0,,So why...
-Dialogue: 9,0:08:33.35,0:08:39.36,Isshuu-Main,Kaori,0,0,0,,I was avoiding talking to you, yes.
-Dialogue: 9,0:08:40.46,0:08:44.29,Isshuu-Main,Kaori,0,0,0,,But not thanking someone after they help you...
-Dialogue: 9,0:08:49.31,0:08:50.21,Isshuu-Main,Yuuki,0,0,0,,See?
-Dialogue: 9,0:08:50.76,0:08:53.26,Isshuu-Main,Yuuki,0,0,0,,You're a nice person after all.
-Dialogue: 9,0:08:59.61,0:09:01.44,Isshuu-Main,Yuuki,0,0,0,,We don't have to be friends, per se,
-Dialogue: 9,0:09:02.02,0:09:03.85,Isshuu-Main,Yuuki,0,0,0,,but can we eat together tomorrow too?
-Dialogue: 9,0:09:04.96,0:09:06.65,Isshuu-Main,Kaori,0,0,0,,What do you mean?
-Dialogue: 9,0:09:06.65,0:09:08.74,Isshuu-Main,Yuuki,0,0,0,,All we'd be doing is eating lunch together.
-Dialogue: 9,0:09:09.22,0:09:10.36,Isshuu-Main,Yuuki,0,0,0,,Not as friends.
-Dialogue: 9,0:09:10.99,0:09:12.85,Isshuu-Main,Yuuki,0,0,0,,That much is fine, right?
-Dialogue: 9,0:09:13.97,0:09:17.91,Isshuu-Main,Kaori,0,0,0,,All right. Tomorrow, on the roof...
-Dialogue: 9,0:09:18.36,0:09:19.73,Isshuu-Main,Yuuki,0,0,0,,Awesome!
-Dialogue: 9,0:09:19.73,0:09:23.62,Isshuu-Main,Kaori,0,0,0,,But please don't talk to me in class.
-Dialogue: 9,0:09:25.60,0:09:27.63,Isshuu-Main,Yuuki,0,0,0,,Gotcha.
-Dialogue: 9,0:09:27.63,0:09:31.60,Isshuu-Main,Yuuki,0,0,0,,{\fad(0,500)}Thank goodness. I don't know what I would've done if you had said no...
-Dialogue: 9,0:09:35.95,0:09:37.26,Isshuu-Main,Teach,0,0,0,,Hase...
-Dialogue: 9,0:09:37.26,0:09:40.43,Isshuu-Main,Teach,0,0,0,,You're gonna fail math at this rate.
-Dialogue: 9,0:09:40.43,0:09:43.50,Isshuu-Main,Yuuki,0,0,0,,We're only a month into the class, Sensei...{class? year?}
-Dialogue: 9,0:09:43.88,0:09:47.40,Isshuu-Main,Teach,0,0,0,,I know. It's the first time I've had to worry about a student so early on.
-Dialogue: 9,0:09:47.40,0:09:50.92,Isshuu-Main,Yuuki,0,0,0,,Inoue-sensei! What do I have to do to be excused?
-Dialogue: 9,0:09:51.63,0:09:54.74,Isshuu-Main,Yuuki,0,0,0,,I don't want to miss lunch today!
-Dialogue: 9,0:09:56.54,0:09:57.91,Isshuu-Main,Teach,0,0,0,,Listen up, Hase.
-Dialogue: 9,0:09:58.62,0:10:00.22,Isshuu-Main,Teach,0,0,0,,You and me both.
-Dialogue: 9,0:10:01.08,0:10:02.35,Isshuu-Main,Yuuki,0,0,0,,Excuse me!
-Dialogue: 9,0:10:05.15,0:10:06.91,Isshuu-Main,Teach,0,0,0,,What's up with him?
-Dialogue: 9,0:10:17.54,0:10:20.47,Isshuu-Main,Yuuki,0,0,0,,My bad. You're done eating, I imagine?
-Dialogue: 9,0:10:21.11,0:10:21.85,Isshuu-Main,Kaori,0,0,0,,I'm not.
-Dialogue: 9,0:10:22.25,0:10:22.81,Isshuu-Main,Yuuki,0,0,0,,You're not?
-Dialogue: 9,0:10:23.44,0:10:28.06,Isshuu-Main,Kaori,0,0,0,,You told me you'd come, so I waited for you...
-Dialogue: 9,0:10:33.04,0:10:33.86,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
-Dialogue: 9,0:10:34.37,0:10:35.05,Isshuu-Main,Kaori,0,0,0,,Y-Yes?
-Dialogue: 9,0:10:35.05,0:10:35.91,Isshuu-Main,Yuuki,0,0,0,,Let's start eating!
-Dialogue: 9,0:10:38.41,0:10:38.90,Isshuu-Main,Kaori,0,0,0,,Yeah.
-Dialogue: 9,0:10:44.12,0:10:46.01,Isshuu-Main,Yuuki,0,0,0,,Man, I'm stuffed.{DAT TL FOR GOCHISOU}
-Dialogue: 9,0:10:47.90,0:10:50.03,Isshuu-Main,Yuuki,0,0,0,,Food tastes best when you're with somebody, huh?
-Dialogue: 9,0:10:51.40,0:10:54.04,Isshuu-Main,Yuuki,0,0,0,,All right, let's play some cards.
-Dialogue: 9,0:10:54.04,0:10:55.86,Isshuu-Main,Kaori,0,0,0,,Huh? Why?
-Dialogue: 9,0:10:55.86,0:10:58.47,Isshuu-Main,Yuuki,0,0,0,,Cards and lunch break go hand in hand.
-Dialogue: 9,0:10:58.47,0:10:59.51,Isshuu-Main,Kaori,0,0,0,,Do they?
-Dialogue: 9,0:10:59.51,0:11:01.83,Isshuu-Main,Yuuki,0,0,0,,Usually people play President...
-Dialogue: 9,0:11:01.83,0:11:03.80,Isshuu-Main,Yuuki,0,0,0,,Wait, you can't play that with two people.
-Dialogue: 9,0:11:03.80,0:11:05.06,Isshuu-Main,Kaori,0,0,0,,There's Old Maid.
-Dialogue: 9,0:11:05.83,0:11:07.29,Isshuu-Main,Kaori,0,0,0,,I guess that's not as fun, either...
-Dialogue: 9,0:11:07.74,0:11:10.02,Isshuu-Main,Yuuki,0,0,0,,Let's play Memory, then.
-Dialogue: 9,0:11:12.16,0:11:13.42,Isshuu-Main,Kaori,0,0,0,,The last one's...
-Dialogue: 9,0:11:13.98,0:11:14.99,Isshuu-Main,Kaori,0,0,0,,here, I think.
-Dialogue: 9,0:11:15.98,0:11:17.00,Isshuu-Main,Kaori,0,0,0,,Yay!
-Dialogue: 9,0:11:18.40,0:11:20.74,Isshuu-Main,Yuuki,0,0,0,,That's five in a row...
-Dialogue: 9,0:11:21.27,0:11:23.87,Isshuu-Main,Yuuki,0,0,0,,Man, I can't compete with your memory.{OHHHHHHH HSNAP}
-Dialogue: 9,0:11:25.35,0:11:27.75,Isshuu-Main,Kaori,0,0,0,,That's not true.
-Dialogue: 9,0:11:30.71,0:11:34.50,Isshuu-Main,Yuuki,0,0,0,,So you're really good at math, right?
-Dialogue: 9,0:11:35.20,0:11:37.55,Isshuu-Main,Kaori,0,0,0,,I wouldn't say I'm really good at it.
-Dialogue: 9,0:11:37.55,0:11:39.18,Isshuu-Main,Kaori,0,0,0,,I've just liked math since I was a kid.
-Dialogue: 9,0:11:39.65,0:11:42.56,Isshuu-Main,Yuuki,0,0,0,,And on the flip side, I really suck at math...
-Dialogue: 9,0:11:42.56,0:11:43.97,Isshuu-Main,Yuuki,0,0,0,,I really respect you.
-Dialogue: 9,0:11:44.53,0:11:48.83,Isshuu-Main,Kaori,0,0,0,,I'm often bored at home, so I just end up studying.
-Dialogue: 9,0:11:49.37,0:11:52.94,Isshuu-Main,Yuuki,0,0,0,,If I'm bored, I just end up hanging out with friends.
-Dialogue: 9,0:11:55.75,0:11:56.39,Isshuu-Main,Kaori,0,0,0,,Um,
-Dialogue: 9,0:11:57.68,0:12:01.57,Isshuu-Main,Kaori,0,0,0,,Hase-kun, when you hang out with friends, where do you usually go?
-Dialogue: 9,0:12:01.92,0:12:04.49,Isshuu-Main,Yuuki,0,0,0,,Hm... Karaoke, I guess?
-Dialogue: 9,0:12:05.13,0:12:07.11,Isshuu-Main,Kaori,0,0,0,,Is karaoke fun?
-Dialogue: 9,0:12:07.58,0:12:10.61,Isshuu-Main,Yuuki,0,0,0,,Wait, have you never been to a karaoke place before?
-Dialogue: 9,0:12:15.04,0:12:16.44,Isshuu-Main,Yuuki,0,0,0,,S-Sorry!
-Dialogue: 9,0:12:16.44,0:12:19.76,Isshuu-Main,Yuuki,0,0,0,,Well, then, would you like to sing some karaoke with me?
-Dialogue: 9,0:12:19.76,0:12:21.13,Isshuu-Main,Kaori,0,0,0,,That's impossible!
-Dialogue: 9,0:12:24.73,0:12:26.25,Isshuu-Main,Kaori,0,0,0,,S-Sorry...
-Dialogue: 9,0:12:27.33,0:12:30.10,Isshuu-Main,Yuuki,0,0,0,,Well, it {\i1}was{\i0} kinda out of the blue...
-Dialogue: 9,0:12:30.99,0:12:34.10,Isshuu-Main,Yuuki,0,0,0,,Anyway, hopefully you'll get a chance.
-Dialogue: 9,0:12:36.17,0:12:36.85,Isshuu-Main,Kaori,0,0,0,,Yeah.
-Dialogue: 9,0:12:38.54,0:12:39.67,Isshuu-Main,Kaori,0,0,0,,Sure...
-Comment: 9,0:12:43.34,0:12:46.12,Isshuu-Main,,0,0,0,,Eyecatch
-Dialogue: 9,0:12:47.16,0:12:48.74,Isshuu-Main,Both,0,0,0,,Thanks for the food.
-Dialogue: 9,0:12:48.74,0:12:50.70,Isshuu-Main,Yuuki,0,0,0,,I'm still a little hungry...
-Dialogue: 9,0:12:50.70,0:12:53.63,Isshuu-Main,Yuuki,0,0,0,,I should've bought some dessert or something.
-Dialogue: 9,0:12:54.19,0:12:56.67,Isshuu-Main,Kaori,0,0,0,,I don't have any food to share, but speaking of desserts,{i.e. it's not food. edits pls}
-Dialogue: 9,0:12:58.17,0:13:00.88,Isshuu-Main,Kaori,0,0,0,,apparently there's a new crepe shop near the station!{WHY IS EVERY NEW STORE A CREPE STORE}
-Dialogue: 9,0:13:01.46,0:13:03.84,Isshuu-Main,Yuuki,0,0,0,,Crepes, huh? Sounds delicious.
-Dialogue: 9,0:13:03.84,0:13:05.43,Isshuu-Main,Kaori,0,0,0,,Do you like crepes too, Hase-kun?
-Dialogue: 9,0:13:05.43,0:13:07.24,Isshuu-Main,Yuuki,0,0,0,,Y-Yeah.
-Dialogue: 9,0:13:07.75,0:13:10.43,Isshuu-Main,Yuuki,0,0,0,,I'm a fan of the chocolate and custard ones.
-Dialogue: 9,0:13:10.88,0:13:13.54,Isshuu-Main,Kaori,0,0,0,,I love strawberries and cream inside my crepes.
-Dialogue: 9,0:13:14.00,0:13:15.88,Isshuu-Main,Kaori,0,0,0,,Blueberry cheesecake is good too...
-Dialogue: 9,0:13:15.88,0:13:18.19,Isshuu-Main,Kaori,0,0,0,,There's this one place where my mom and I go a lot,
-Dialogue: 9,0:13:18.19,0:13:22.19,Isshuu-Main,Kaori,0,0,0,,but there's only one bench there, and it's always taken.
-Dialogue: 9,0:13:22.64,0:13:25.72,Isshuu-Main,Kaori,0,0,0,,What do you think? This shop seems to have a lot of places to sit...
-Dialogue: 9,0:13:27.77,0:13:34.24,Isshuu-Main,Kaori,0,0,0,,I-I was just thinking that other people might be interested in this shop.
-Dialogue: 9,0:13:34.24,0:13:37.17,Isshuu-Main,Kaori,0,0,0,,I wasn't trying to say we should go together or anything...
-Dialogue: 9,0:13:37.63,0:13:38.48,Isshuu-Main,Yuuki,0,0,0,,For what it's worth, I'd be down—
-Dialogue: 9,0:13:38.48,0:13:40.36,Isshuu-Main,Kaori,0,0,0,,And we're not even friends, so... {critical hit...}
-Dialogue: 9,0:13:41.80,0:13:44.19,Isshuu-Main,Yuuki,0,0,0,,We aren't friends, huh...
-Dialogue: 9,0:13:44.19,0:13:45.95,Isshuu-Main,Kaori,0,0,0,,Uh, well...
-Dialogue: 9,0:13:45.95,0:13:49.05,Isshuu-Main,Yuuki,0,0,0,,What do you consider to be friends, then?
-Dialogue: 9,0:13:49.48,0:13:50.00,Isshuu-Main,Kaori,0,0,0,,Huh?
-Dialogue: 9,0:13:50.45,0:13:53.25,Isshuu-Main,Yuuki,0,0,0,,Like, what kind of things do friends talk about?
-Dialogue: 9,0:13:55.14,0:13:56.37,Isshuu-Main,Kaori,0,0,0,,Love!
-Dialogue: 9,0:13:56.37,0:13:57.23,Isshuu-Main,Yuuki,0,0,0,,Love talk?
-Dialogue: 9,0:13:57.87,0:14:01.56,Isshuu-Main,Yuuki,0,0,0,,Love, huh? That's kinda tough, considering I'm not crushing on anyone right now...
-Dialogue: 9,0:14:01.56,0:14:03.75,Isshuu-Main,Yuuki,0,0,0,,As far as people I might be interested in...
-Dialogue: 9,0:14:04.74,0:14:05.82,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
-Dialogue: 9,0:14:05.82,0:14:09.36,Isshuu-Main,Kaori,0,0,0,,But since we aren't friends, \Nwe don't need to talk about love.
-Dialogue: 9,0:14:09.36,0:14:10.61,Isshuu-Main,Yuuki,0,0,0,,Right.
-Dialogue: 9,0:14:14.74,0:14:15.92,Isshuu-Main,Kaori,0,0,0,,I'm home!
-Dialogue: 9,0:14:17.22,0:14:18.33,Isshuu-Main,Kaorimom,0,0,0,,Welcome back.
-Dialogue: 9,0:14:19.39,0:14:21.48,Isshuu-Main,Kaori,0,0,0,,I'll wash this later, so I'm leaving it here.
-Dialogue: 9,0:15:04.22,0:15:05.75,Isshuu-Main,Yuuki,0,0,0,,Thanks for the food!
-Dialogue: 9,0:15:06.13,0:15:07.88,Isshuu-Main,Yuuki,0,0,0,,Man, that was delicious.
-Dialogue: 9,0:15:13.35,0:15:16.72,Isshuu-Main,Yuuki,0,0,0,,You've hardly touched your food.
-Dialogue: 9,0:15:17.78,0:15:20.27,Isshuu-Main,Kaori,0,0,0,,I'm not feeling that hungry, that's all...
-Dialogue: 9,0:15:20.27,0:15:22.06,Isshuu-Main,Yuuki,0,0,0,,Huh? Are you okay?
-Dialogue: 9,0:15:22.81,0:15:25.27,Isshuu-Main,Kaori,0,0,0,,Yeah. I'm fine.
-Dialogue: 9,0:15:28.92,0:15:30.90,Isshuu-Main,Yuki,0,0,0,,We've got bio next, right?
-Dialogue: 9,0:15:31.54,0:15:33.67,Isshuu-Main,Yuki,0,0,0,,Honestly, I might just sleep through it.
-Dialogue: 9,0:15:33.67,0:15:35.58,Isshuu-Main,Yuki,0,0,0,,Don't want to fail it, though...
-Dialogue: 9,0:15:35.58,0:15:38.51,Isshuu-Main,Yuki,0,0,0,,But I should be more worried about math.
-Dialogue: 9,0:15:39.00,0:15:41.08,Isshuu-Main,Yuki,0,0,0,,You're pretty good at math, right?
-Dialogue: 9,0:15:41.50,0:15:43.94,Isshuu-Main,Yuki,0,0,0,,Oh yeah, maybe at some point, you think—
-Dialogue: 9,0:15:43.94,0:15:44.94,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
-Dialogue: 9,0:15:46.16,0:15:46.92,Isshuu-Main,Yuuki,0,0,0,,What is it?
-Dialogue: 9,0:15:49.44,0:15:51.97,Isshuu-Main,Kaori,0,0,0,,Don't talk to me anymore.
-Dialogue: 9,0:15:53.26,0:15:55.06,Isshuu-Main,Yuuki,0,0,0,,W-Why?
-Dialogue: 9,0:15:57.25,0:15:59.39,Isshuu-Main,Yuuki,0,0,0,,Did I do anything wrong?
-Dialogue: 9,0:15:59.39,0:16:00.72,Isshuu-Main,Yuuki,0,0,0,,Why are you—
-Dialogue: 9,0:16:00.72,0:16:01.99,Isshuu-Main,Kaori,0,0,0,,I told you, didn't I?
-Dialogue: 9,0:16:02.46,0:16:05.84,Isshuu-Main,Kaori,0,0,0,,I can't be friends with anyone.{feel free to revert}{It's impossible for me to make friends.}
-Dialogue: 9,0:16:08.75,0:16:12.46,Isshuu-Main,Kaori,0,0,0,,I want you to act like this never happened.
-Dialogue: 9,0:16:14.02,0:16:16.41,Isshuu-Main,Kaori,0,0,0,,I'll forget everything, too...
-Dialogue: 9,0:16:18.63,0:16:19.79,Isshuu-Main,Yuuki,0,0,0,,That's impossible...
-Dialogue: 9,0:16:20.36,0:16:22.23,Isshuu-Main,Yuuki,0,0,0,,I won't forget that easily...
-Dialogue: 9,0:16:23.03,0:16:24.30,Isshuu-Main,Yuuki,0,0,0,,You won't really forget me, will you?
-Dialogue: 9,0:16:24.65,0:16:25.58,Isshuu-Main,Kaori,0,0,0,,I will!
-Dialogue: 9,0:16:31.27,0:16:34.21,Isshuu-Main,Kaori,0,0,0,,On Monday, all the memories of the fun times we shared...
-Dialogue: 9,0:16:34.82,0:16:36.75,Isshuu-Main,Kaori,0,0,0,,will disappear.
-Dialogue: 9,0:16:39.07,0:16:41.15,Isshuu-Main,Kaori,0,0,0,,It's not just the fun memories, either.
-Dialogue: 9,0:16:41.57,0:16:49.71,Isshuu-Main,Kaori,0,0,0,,I forget everything about the people I get close to and want to continue to be with, too.
-Dialogue: 9,0:16:50.83,0:16:52.72,Isshuu-Main,Kaori,0,0,0,,My family seems to be the only exception.
-Dialogue: 9,0:16:54.14,0:16:57.66,Isshuu-Main,Kaori,0,0,0,,That's why I can't remember my friends.
-Dialogue: 9,0:16:59.20,0:17:00.33,Isshuu-Main,Yuuki,0,0,0,,What is this...
-Dialogue: 9,0:17:03.84,0:17:07.62,Isshuu-Main,Yuuki,0,0,0,,But that's okay! We aren't friends, are we?
-Dialogue: 9,0:17:07.62,0:17:08.60,Isshuu-Main,Yuuki,0,0,0,,In that case...
-Dialogue: 9,0:17:08.60,0:17:11.67,Isshuu-Main,Kaori,0,0,0,,I know this, though.
-Dialogue: 9,0:17:12.92,0:17:16.72,Isshuu-Main,Kaori,0,0,0,,All my memories of you will disappear.
-Dialogue: 9,0:17:24.98,0:17:25.96,Isshuu-Main,Yuuki,0,0,0,,I...
-Dialogue: 9,0:17:27.00,0:17:28.38,Isshuu-Main,Yuuki,0,0,0,,I can't believe this.
-Dialogue: 9,0:17:44.15,0:17:46.19,Isshuu-Main,Shougo,0,0,0,,Been a while since we've done something like this.
-Dialogue: 9,0:17:49.54,0:17:53.42,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san told me not to talk to her again.
-Dialogue: 9,0:17:54.23,0:17:57.80,Isshuu-Main,Yuuki,0,0,0,,She'd forget everything, and she told me to forget everything, too.
-Dialogue: 9,0:17:57.80,0:18:00.37,Isshuu-Main,Shougo,0,0,0,,I see. Doesn't that mean...
-Dialogue: 9,0:18:00.37,0:18:00.95,Isshuu-Main,Yuuki,0,0,0,,Yeah?
-Dialogue: 9,0:18:01.51,0:18:03.27,Isshuu-Main,Shougo,0,0,0,,that she totally hates you?
-Dialogue: 9,0:18:03.97,0:18:05.73,Isshuu-Main,Yuuki,0,0,0,,You think so, too?
-Dialogue: 9,0:18:06.58,0:18:08.44,Isshuu-Main,Yuuki,0,0,0,,That'd be the usual conclusion to draw...
-Dialogue: 9,0:18:08.44,0:18:11.59,Isshuu-Main,Shougo,0,0,0,,She's always by herself, right?
-Dialogue: 9,0:18:11.59,0:18:14.66,Isshuu-Main,Shougo,0,0,0,,You never know what she's thinking. What about her appeals to you?
-Dialogue: 9,0:18:16.88,0:18:17.79,Isshuu-Main,Yuuki,0,0,0,,Her face.
-Dialogue: 9,0:18:17.79,0:18:19.84,Isshuu-Main,Shougo,0,0,0,,Boy, you're simple.
-Dialogue: 9,0:18:19.84,0:18:21.53,Isshuu-Main,Yuuki,0,0,0,,Does it matter?
-Dialogue: 9,0:18:22.21,0:18:27.50,Isshuu-Main,Shougo,0,0,0,,If you're trying to be friends, you just have to keep talking and see if you get along.
-Dialogue: 9,0:18:28.35,0:18:31.07,Isshuu-Main,Shougo,0,0,0,,Friendship isn't something you can force.
-Dialogue: 9,0:18:31.64,0:18:34.50,Isshuu-Main,Shougo,0,0,0,,It'd be different if you were \Ntrying to go out with her, but...
-Dialogue: 9,0:18:39.19,0:18:42.97,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san isn't as cold as \Neveryone makes her out to be.
-Dialogue: 9,0:18:42.97,0:18:45.19,Isshuu-Main,Yuuki,0,0,0,,She's bright, loves talking to people,
-Dialogue: 9,0:18:45.84,0:18:49.94,Isshuu-Main,Yuuki,0,0,0,,and waits for you if you're late for lunch.
-Dialogue: 9,0:18:50.92,0:18:56.49,Isshuu-Main,Yuuki,0,0,0,,If everyone tried talking to her, I'm sure she'd be friends with everyone.
-Dialogue: 9,0:18:56.49,0:18:59.86,Isshuu-Main,Yuuki,0,0,0,,She's a nice and sweet girl.
-Dialogue: 9,0:19:04.36,0:19:05.53,Isshuu-Main,Shougo,0,0,0,,So cheesy.
-Dialogue: 9,0:19:06.62,0:19:08.85,Isshuu-Main,Yuuki,0,0,0,,Wh-What's that supposed to mean?
-Dialogue: 9,0:19:08.85,0:19:10.62,Isshuu-Main,Shougo,0,0,0,,Sorry. Don't worry about it.
-Dialogue: 9,0:19:11.87,0:19:16.14,Isshuu-Main,Shougo,0,0,0,,Well, if that's the true Fujimiya,
-Dialogue: 9,0:19:16.59,0:19:20.59,Isshuu-Main,Shougo,0,0,0,,then you're probably special to her.
-Dialogue: 9,0:19:21.52,0:19:22.91,Isshuu-Main,Yuuki,0,0,0,,You think?
-Dialogue: 9,0:19:23.61,0:19:25.30,Isshuu-Main,Shougo,0,0,0,,I'd say you made a lot of progress.
-Dialogue: 9,0:19:25.72,0:19:28.13,Isshuu-Main,Shougo,0,0,0,,Compared to how she was on Monday...
-Dialogue: 9,0:19:29.43,0:19:30.44,Isshuu-Main,Yuuki,0,0,0,,Shougo...
-Dialogue: 9,0:19:31.07,0:19:34.65,Isshuu-Main,Shougo,0,0,0,,Since you've already come this far, you might as well go for it.
-Dialogue: 9,0:19:37.79,0:19:39.11,Isshuu-Main,Yuuki,0,0,0,,You're right.
-Dialogue: 9,0:19:47.76,0:19:50.96,Isshuu-Main,Kaorimom,0,0,0,,Kaori? Dad bought a cake.
-Dialogue: 9,0:19:51.82,0:19:52.88,Isshuu-Main,Kaori,0,0,0,,Okay. I'll come down later.
-Dialogue: 9,0:20:08.98,0:20:11.58,Isshuu-Main,Kaori,0,0,0,,{\i1}We aren't friends.
-Dialogue: 9,0:20:32.49,0:20:33.67,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san.
-Dialogue: 9,0:20:37.11,0:20:38.67,Isshuu-Main,Kaori,0,0,0,,Wh-What is it?
-Dialogue: 9,0:20:43.39,0:20:48.16,Isshuu-Main,Yuuki,0,0,0,,{\i1}I began to understand what Fujimiya-san meant.
-Dialogue: 9,0:20:50.14,0:20:55.15,Isshuu-Main,Yuuki,0,0,0,,{\i1}There were no lies in her words.
-Dialogue: 9,0:20:55.71,0:21:01.44,Isshuu-Main,Yuuki,0,0,0,,{\i1}The week we spent together was \Ncompletely gone from her memory.
-Dialogue: 9,0:21:03.46,0:21:04.94,Isshuu-Main,Yuuki,0,0,0,,{\i1}The happiness we shared...
-Dialogue: 9,0:21:05.38,0:21:07.07,Isshuu-Main,Yuuki,0,0,0,,{\i1}The connections we made...
-Dialogue: 9,0:21:07.07,0:21:12.29,Isshuu-Main,Yuuki,0,0,0,,{\i1}All those would be reset on Monday, forcing them to be rebuilt.
-Dialogue: 9,0:21:13.34,0:21:18.13,Isshuu-Main,Yuuki,0,0,0,,{\i1}Fujimiya-san knew about this, and kept herself from making friends.
-Dialogue: 9,0:21:19.15,0:21:19.92,Isshuu-Main,Kaori,0,0,0,,Excuse me?
-Dialogue: 9,0:21:21.51,0:21:23.80,Isshuu-Main,Kaori,0,0,0,,If all you're going to do is stand there, then...
-Dialogue: 9,0:21:23.80,0:21:24.76,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
-Dialogue: 9,0:21:30.89,0:21:33.14,Isshuu-Main,Yuuki,0,0,0,,{\i1}But I knew.
-Dialogue: 9,0:21:35.75,0:21:37.69,Isshuu-Main,Yuuki,0,0,0,,{\i1}I knew that she...
-Dialogue: 9,0:21:39.22,0:21:41.57,Isshuu-Main,Yuuki,0,0,0,,{\i1}wanted to make friends, more than anybody else.
-Dialogue: 9,0:21:42.91,0:21:48.07,Isshuu-Main,Yuuki,0,0,0,,{\i1}That's why I decided to say those words, however many times it took.
-Dialogue: 9,0:21:51.04,0:21:51.87,Isshuu-Main,Yuuki,0,0,0,,Please...
-Dialogue: 9,0:21:53.17,0:21:54.79,Isshuu-Main,Yuuki,0,0,0,,be my friend.
-Comment: 9,0:22:00.63,0:23:16.98,Isshuu-Main,,0,0,0,,ED
-Dialogue: 9,0:23:35.89,0:23:37.89,Isshuu-Main,Kaori,0,0,0,,{\an8}How to spend time with friends.
+Dialogue: 10,0:00:07.90,0:00:09.13,Isshuu-Main,Yuuki,0,0,0,,Wait up!
+Dialogue: 10,0:00:15.01,0:00:15.85,Isshuu-Main,Yuuki,0,0,0,,Um...
+Dialogue: 10,0:00:16.20,0:00:16.87,Isshuu-Main,Yuuki,0,0,0,,If it's all right...
+Dialogue: 10,0:00:17.55,0:00:18.41,Isshuu-Main,Yuuki,0,0,0,,Would you...
+Dialogue: 10,0:00:20.49,0:00:22.66,Isshuu-Main,Yuuki,0,0,0,,Would you please be my friend?
+Dialogue: 10,0:00:34.39,0:00:35.00,Isshuu-Main,Kaori,0,0,0,,I'm...
+Dialogue: 10,0:00:36.40,0:00:37.10,Isshuu-Main,Yuuki,0,0,0,,I'm?
+Dialogue: 10,0:00:38.12,0:00:40.08,Isshuu-Main,Kaori,0,0,0,,I'm really happy, but sorry! {F257: Skipping the U-  U? before this?}
+Dialogue: 10,0:00:43.23,0:00:45.25,Isshuu-Main,Yuuki,0,0,0,,{\i1}If she's happy, then why...
+Dialogue: 10,0:00:49.75,0:00:52.91,Isshuu-Main,Yuuki,0,0,0,,{\i1}It may seem obvious, but back then,
+Dialogue: 10,0:00:53.61,0:00:56.92,Isshuu-Main,Yuuki,0,0,0,,{\i1}I didn't know anything about Fujimiya-san's secret.
+Dialogue: 10,0:01:08.75,0:01:12.26,Isshuu-Main,Yuuki,0,0,0,,{\i1}Why she was always alone.
+Dialogue: 10,0:01:15.26,0:01:18.97,Isshuu-Main,Yuuki,0,0,0,,{\i1}Why she never tried to make friends.
+Dialogue: 10,0:01:22.50,0:01:25.47,Isshuu-Main,Yuuki,0,0,0,,{\i1}I didn't know anything.
+Comment: 10,0:01:28.53,0:02:55.04,Isshuu-Main,,0,0,0,,OP
+Dialogue: 10,0:03:06.04,0:03:07.08,Isshuu-Main,Yuuki,0,0,0,,I'm back.
+Dialogue: 10,0:03:27.58,0:03:29.68,Isshuu-Main,Shougo,0,0,0,,What's up with you?
+Dialogue: 10,0:03:31.39,0:03:33.77,Isshuu-Main,Yuuki,0,0,0,,I tried talking to Fujimiya-san.
+Dialogue: 10,0:03:35.09,0:03:38.02,Isshuu-Main,Shougo,0,0,0,,Good for you. You can die happy now.
+Dialogue: 10,0:03:38.86,0:03:42.28,Isshuu-Main,Shougo,0,0,0,,You've been going on and on about how you want to talk to her...
+Dialogue: 10,0:03:42.72,0:03:44.28,Isshuu-Main,Yuuki,0,0,0,,She turned me down though.
+Dialogue: 10,0:03:45.31,0:03:46.16,Isshuu-Main,Shougo,0,0,0,,Huh?
+Dialogue: 10,0:03:46.57,0:03:48.70,Isshuu-Main,Yuuki,0,0,0,,I asked her if she wanted to be friends.
+Dialogue: 10,0:03:48.70,0:03:49.83,Isshuu-Main,Shougo,0,0,0,,You said it, huh?
+Dialogue: 10,0:03:50.23,0:03:52.46,Isshuu-Main,Yuuki,0,0,0,,and she replied, "I'm really happy, but sorry!"...
+Dialogue: 10,0:03:52.81,0:03:55.54,Isshuu-Main,Yuuki,0,0,0,,What's that supposed to mean, Shougo?
+Dialogue: 10,0:03:55.54,0:03:57.09,Isshuu-Main,Shougo,0,0,0,,Hell if I know.
+Dialogue: 10,0:03:57.52,0:03:59.13,Isshuu-Main,Yuuki,0,0,0,,You're so cruel!
+Dialogue: 10,0:03:59.13,0:04:01.42,Isshuu-Main,Shougo,0,0,0,,And you're so annoying...
+Dialogue: 10,0:04:02.41,0:04:06.47,Isshuu-Main,Shougo,0,0,0,,Well, that'd be her way of politely rejecting you, I guess.
+Dialogue: 10,0:04:06.47,0:04:09.42,Isshuu-Main,Yuuki,0,0,0,,You think? Maybe you're right...
+Dialogue: 10,0:04:14.20,0:04:18.11,Isshuu-Main,Shougo,0,0,0,,If you're that hung up about it, why not just ask her?
+Dialogue: 10,0:04:18.49,0:04:21.18,Isshuu-Main,Shougo,0,0,0,,She was heading towards the roof earlier.
+Dialogue: 10,0:04:26.94,0:04:27.66,Isshuu-Main,Shougo,0,0,0,,Hold on.
+Dialogue: 10,0:04:28.67,0:04:31.55,Isshuu-Main,Shougo,0,0,0,,The roof's usually locked, isn't it?
+Dialogue: 10,0:04:44.27,0:04:45.34,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
+Dialogue: 10,0:04:48.79,0:04:50.06,Isshuu-Main,Kaori,0,0,0,,Hase-kun?
+Dialogue: 10,0:04:51.23,0:04:54.79,Isshuu-Main,Yuuki,0,0,0,,So this is where you always go for lunch, huh?
+Dialogue: 10,0:04:57.81,0:04:59.17,Isshuu-Main,Yuuki,0,0,0,,U-Uh...
+Dialogue: 10,0:04:59.17,0:05:02.28,Isshuu-Main,Yuuki,0,0,0,,Wh-Whoa, what a great view!
+Dialogue: 10,0:05:02.76,0:05:05.78,Isshuu-Main,Yuuki,0,0,0,,It's my first time coming up here, so I had no idea!
+Dialogue: 10,0:05:06.25,0:05:08.40,Isshuu-Main,Yuuki,0,0,0,,There's nobody here,\Nso it's nice and quiet, too!{nice job being the problem}
+Dialogue: 10,0:05:08.40,0:05:09.67,Isshuu-Main,Yuuki,0,0,0,,What a find!{lit special seat}
+Dialogue: 10,0:05:11.74,0:05:12.81,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san?
+Dialogue: 10,0:05:13.96,0:05:17.55,Isshuu-Main,Yuuki,0,0,0,,Do you have a cold or something?
+Dialogue: 10,0:05:17.55,0:05:19.34,Isshuu-Main,Yuuki,0,0,0,,You were coughing earlier, too.
+Dialogue: 10,0:05:32.85,0:05:34.37,Isshuu-Main,Girl,0,0,0,,C'mon, go ask her...
+Dialogue: 10,0:05:34.37,0:05:35.76,Isshuu-Main,Saki,0,0,0,,Really? {F257: SAKI!}
+Dialogue: 10,0:05:37.47,0:05:39.44,Isshuu-Main,Saki,0,0,0,,Hey, Fujimiya-san...
+Dialogue: 10,0:05:40.85,0:05:41.60,Isshuu-Main,Kaori,0,0,0,,Yes?
+Dialogue: 10,0:05:42.42,0:05:45.15,Isshuu-Main,Saki,0,0,0,,You're the math representative, right?
+Dialogue: 10,0:05:45.61,0:05:48.75,Isshuu-Main,Saki,0,0,0,,I forgot to turn in my math homework yesterday.
+Dialogue: 10,0:05:48.75,0:05:52.34,Isshuu-Main,Saki,0,0,0,,Can you talk to the teacher and turn it in for me?{denpa: puddi pls}
+Dialogue: 10,0:05:53.55,0:05:54.22,Isshuu-Main,Kaori,0,0,0,,Sorry.
+Dialogue: 10,0:05:56.15,0:05:57.67,Isshuu-Main,Saki,0,0,0,,See? I told you.
+Dialogue: 10,0:05:58.71,0:06:01.54,Isshuu-Main,Girl,0,0,0,,She's really cold, isn't she?
+Dialogue: 10,0:06:01.98,0:06:03.48,Isshuu-Main,Girl,0,0,0,,What's with her attitude?
+Dialogue: 10,0:06:13.68,0:06:15.86,Isshuu-Main,Yuuki,0,0,0,,The weather's nice today, isn't it?
+Dialogue: 10,0:06:15.86,0:06:17.02,Isshuu-Main,Yuuki,0,0,0,,Or is it just me?
+Dialogue: 10,0:06:20.19,0:06:21.86,Isshuu-Main,Yuuki,0,0,0,,Mind if I eat up here?
+Dialogue: 10,0:06:22.20,0:06:25.45,Isshuu-Main,Yuuki,0,0,0,,My friend ate without me and fell asleep.
+Dialogue: 10,0:06:26.94,0:06:27.99,Isshuu-Main,Kaori,0,0,0,,Why...
+Dialogue: 10,0:06:28.75,0:06:29.66,Isshuu-Main,Yuuki,0,0,0,,Why what?
+Dialogue: 10,0:06:32.07,0:06:34.26,Isshuu-Main,Yuuki,0,0,0,,We've got P.E. during fifth period, right?
+Dialogue: 10,0:06:34.91,0:06:37.77,Isshuu-Main,Yuuki,0,0,0,,Having it in the afternoon kinda sucks...
+Dialogue: 10,0:06:37.77,0:06:38.72,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
+Dialogue: 10,0:06:39.25,0:06:39.99,Isshuu-Main,Yuuki,0,0,0,,What's up?
+Dialogue: 10,0:06:41.21,0:06:44.21,Isshuu-Main,Kaori,0,0,0,,I can't be friends with anyone.
+Dialogue: 10,0:06:44.64,0:06:46.95,Isshuu-Main,Yuuki,0,0,0,,Huh? What do you mean?
+Dialogue: 10,0:06:47.58,0:06:49.95,Isshuu-Main,Yuuki,0,0,0,,Did someone tell you not to?
+Dialogue: 10,0:06:49.95,0:06:51.28,Isshuu-Main,Kaori,0,0,0,,That's not it...
+Dialogue: 10,0:06:51.28,0:06:56.52,Isshuu-Main,Yuuki,0,0,0,,Are your parents really strict, telling you to focus on school rather than friends?
+Dialogue: 10,0:06:56.93,0:06:59.90,Isshuu-Main,Kaori,0,0,0,,It's not that someone told me not to.
+Dialogue: 10,0:06:59.90,0:07:01.44,Isshuu-Main,Yuuki,0,0,0,,Then why?
+Dialogue: 10,0:07:01.44,0:07:02.40,Isshuu-Main,Kaori,0,0,0,,It's just...
+Dialogue: 10,0:07:03.02,0:07:03.68,Isshuu-Main,Kaori,0,0,0,,It's...
+Dialogue: 10,0:07:04.90,0:07:06.36,Isshuu-Main,Kaori,0,0,0,,just impossible.
+Dialogue: 10,0:07:07.75,0:07:10.33,Isshuu-Main,Kaori,0,0,0,,I'm really sorry.
+Dialogue: 10,0:07:14.30,0:07:16.37,Isshuu-Main,Yuuki,0,0,0,,You weren't actually sick yesterday, were you?
+Dialogue: 10,0:07:17.91,0:07:19.97,Isshuu-Main,Yuuki,0,0,0,,Why didn't you keep up the act?
+Dialogue: 10,0:07:19.97,0:07:21.99,Isshuu-Main,Kaori,0,0,0,,W-Well...
+Dialogue: 10,0:07:22.58,0:07:24.50,Isshuu-Main,Yuuki,0,0,0,,And why did you thank me afterwards?
+Dialogue: 10,0:07:33.86,0:07:35.77,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san, you must be—
+Dialogue: 10,0:07:39.66,0:07:42.15,Isshuu-Main,Yuuki,0,0,0,,You must be really good at math. That's why—
+Dialogue: 10,0:07:45.07,0:07:48.03,Isshuu-Main,Yuuki,0,0,0,,Do you have a cold? Want me to carry those for you?{dem fake coughs}
+Dialogue: 10,0:07:52.61,0:07:54.56,Isshuu-Main,Yuuki,0,0,0,,Sorry for bothering.
+Dialogue: 10,0:07:59.04,0:08:00.04,Isshuu-Main,Kaori,0,0,0,,Um...
+Dialogue: 10,0:08:00.04,0:08:01.16,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
+Dialogue: 10,0:08:04.86,0:08:06.38,Isshuu-Main,Kaori,0,0,0,,Uh...
+Dialogue: 10,0:08:07.25,0:08:08.63,Isshuu-Main,Kaori,0,0,0,,Thank you...
+Dialogue: 10,0:08:09.63,0:08:12.17,Isshuu-Main,Kaori,0,0,0,,for helping out.
+Dialogue: 10,0:08:14.53,0:08:16.85,Isshuu-Main,Kaori,0,0,0,,B-Bye. {F257: Kinda want to split this since a lot of time in between, but not sure how to. QCs?}{denpa: i'm not sure what it'd be split to, so leaving as is}
+Dialogue: 10,0:08:17.52,0:08:18.68,Isshuu-Main,Yuuki,0,0,0,,Wait up!{i.e., this scene happens before the pre-OP scene}
+Dialogue: 10,0:08:21.55,0:08:27.60,Isshuu-Main,Yuuki,0,0,0,,If you'd kept giving me the cold shoulder, I wouldn't have said that.
+Dialogue: 10,0:08:29.10,0:08:30.77,Isshuu-Main,Yuuki,0,0,0,,So why...
+Dialogue: 10,0:08:33.35,0:08:39.36,Isshuu-Main,Kaori,0,0,0,,I was avoiding talking to you, yes.
+Dialogue: 10,0:08:40.46,0:08:44.29,Isshuu-Main,Kaori,0,0,0,,But not thanking someone after they help you...
+Dialogue: 10,0:08:49.31,0:08:50.21,Isshuu-Main,Yuuki,0,0,0,,See?
+Dialogue: 10,0:08:50.76,0:08:53.26,Isshuu-Main,Yuuki,0,0,0,,You're a nice person after all.
+Dialogue: 10,0:08:59.61,0:09:01.44,Isshuu-Main,Yuuki,0,0,0,,We don't have to be friends, per se,
+Dialogue: 10,0:09:02.02,0:09:03.85,Isshuu-Main,Yuuki,0,0,0,,but can we eat together tomorrow too?
+Dialogue: 10,0:09:04.96,0:09:06.65,Isshuu-Main,Kaori,0,0,0,,What do you mean?
+Dialogue: 10,0:09:06.65,0:09:08.74,Isshuu-Main,Yuuki,0,0,0,,All we'd be doing is eating lunch together.
+Dialogue: 10,0:09:09.22,0:09:10.36,Isshuu-Main,Yuuki,0,0,0,,Not as friends.
+Dialogue: 10,0:09:10.99,0:09:12.85,Isshuu-Main,Yuuki,0,0,0,,That much is fine, right?
+Dialogue: 10,0:09:13.97,0:09:17.91,Isshuu-Main,Kaori,0,0,0,,All right. Tomorrow, on the roof...
+Dialogue: 10,0:09:18.36,0:09:19.73,Isshuu-Main,Yuuki,0,0,0,,Awesome!
+Dialogue: 10,0:09:19.73,0:09:23.62,Isshuu-Main,Kaori,0,0,0,,But please don't talk to me in class.
+Dialogue: 10,0:09:25.60,0:09:27.63,Isshuu-Main,Yuuki,0,0,0,,Gotcha.
+Dialogue: 10,0:09:27.63,0:09:31.60,Isshuu-Main,Yuuki,0,0,0,,{\fad(0,500)}Thank goodness. I don't know what I would've done if you had said no...
+Dialogue: 10,0:09:35.95,0:09:37.26,Isshuu-Main,Teach,0,0,0,,Hase...
+Dialogue: 10,0:09:37.26,0:09:40.43,Isshuu-Main,Teach,0,0,0,,You're gonna fail math at this rate.
+Dialogue: 10,0:09:40.43,0:09:43.50,Isshuu-Main,Yuuki,0,0,0,,We're only a month into the class, Sensei...{class? year?}
+Dialogue: 10,0:09:43.88,0:09:47.40,Isshuu-Main,Teach,0,0,0,,I know. It's the first time I've had to worry about a student so early on.
+Dialogue: 10,0:09:47.40,0:09:50.92,Isshuu-Main,Yuuki,0,0,0,,Inoue-sensei! What do I have to do to be excused?
+Dialogue: 10,0:09:51.63,0:09:54.74,Isshuu-Main,Yuuki,0,0,0,,I don't want to miss lunch today!
+Dialogue: 10,0:09:56.54,0:09:57.91,Isshuu-Main,Teach,0,0,0,,Listen up, Hase.
+Dialogue: 10,0:09:58.62,0:10:00.22,Isshuu-Main,Teach,0,0,0,,You and me both.
+Dialogue: 10,0:10:01.08,0:10:02.35,Isshuu-Main,Yuuki,0,0,0,,Excuse me!
+Dialogue: 10,0:10:05.15,0:10:06.91,Isshuu-Main,Teach,0,0,0,,What's up with him?
+Dialogue: 10,0:10:17.54,0:10:20.47,Isshuu-Main,Yuuki,0,0,0,,My bad. You're done eating, I imagine?
+Dialogue: 10,0:10:21.11,0:10:21.85,Isshuu-Main,Kaori,0,0,0,,I'm not.
+Dialogue: 10,0:10:22.25,0:10:22.81,Isshuu-Main,Yuuki,0,0,0,,You're not?
+Dialogue: 10,0:10:23.44,0:10:28.06,Isshuu-Main,Kaori,0,0,0,,You told me you'd come, so I waited for you...
+Dialogue: 10,0:10:33.04,0:10:33.86,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
+Dialogue: 10,0:10:34.37,0:10:35.05,Isshuu-Main,Kaori,0,0,0,,Y-Yes?
+Dialogue: 10,0:10:35.05,0:10:35.91,Isshuu-Main,Yuuki,0,0,0,,Let's start eating!
+Dialogue: 10,0:10:38.41,0:10:38.90,Isshuu-Main,Kaori,0,0,0,,Yeah.
+Dialogue: 10,0:10:44.12,0:10:46.01,Isshuu-Main,Yuuki,0,0,0,,Man, I'm stuffed.{DAT TL FOR GOCHISOU}
+Dialogue: 10,0:10:47.90,0:10:50.03,Isshuu-Main,Yuuki,0,0,0,,Food tastes best when you're with somebody, huh?
+Dialogue: 10,0:10:51.40,0:10:54.04,Isshuu-Main,Yuuki,0,0,0,,All right, let's play some cards.
+Dialogue: 10,0:10:54.04,0:10:55.86,Isshuu-Main,Kaori,0,0,0,,Huh? Why?
+Dialogue: 10,0:10:55.86,0:10:58.47,Isshuu-Main,Yuuki,0,0,0,,There's nothing like a game\Nof cards after eating lunch.{Cards and lunch break go hand in hand.}
+Dialogue: 10,0:10:58.47,0:10:59.51,Isshuu-Main,Kaori,0,0,0,,Is that so?{Do they?}
+Dialogue: 10,0:10:59.51,0:11:01.83,Isshuu-Main,Yuuki,0,0,0,,Usually people play President...
+Dialogue: 10,0:11:01.83,0:11:03.80,Isshuu-Main,Yuuki,0,0,0,,Wait, you can't play that with two people.
+Dialogue: 10,0:11:03.80,0:11:05.06,Isshuu-Main,Kaori,0,0,0,,There's Old Maid.
+Dialogue: 10,0:11:05.83,0:11:07.29,Isshuu-Main,Kaori,0,0,0,,I guess that's not as fun, either...
+Dialogue: 10,0:11:07.74,0:11:10.02,Isshuu-Main,Yuuki,0,0,0,,Let's play Memory, then.
+Dialogue: 10,0:11:12.16,0:11:13.42,Isshuu-Main,Kaori,0,0,0,,The last one's...
+Dialogue: 10,0:11:13.98,0:11:14.99,Isshuu-Main,Kaori,0,0,0,,here, I think.
+Dialogue: 10,0:11:15.98,0:11:17.00,Isshuu-Main,Kaori,0,0,0,,Yay!
+Dialogue: 10,0:11:18.40,0:11:20.74,Isshuu-Main,Yuuki,0,0,0,,That's five in a row...
+Dialogue: 10,0:11:21.27,0:11:23.87,Isshuu-Main,Yuuki,0,0,0,,Man, I can't compete with your memory.{OHHHHHHH HSNAP}
+Dialogue: 10,0:11:25.35,0:11:27.75,Isshuu-Main,Kaori,0,0,0,,That's not true.
+Dialogue: 10,0:11:30.71,0:11:34.50,Isshuu-Main,Yuuki,0,0,0,,So you're really good at math, right?
+Dialogue: 10,0:11:35.20,0:11:37.55,Isshuu-Main,Kaori,0,0,0,,I wouldn't say I'm really good at it.
+Dialogue: 10,0:11:37.55,0:11:39.18,Isshuu-Main,Kaori,0,0,0,,I've just liked math since I was a kid.
+Dialogue: 10,0:11:39.65,0:11:42.56,Isshuu-Main,Yuuki,0,0,0,,And on the flip side, I really suck at math...
+Dialogue: 10,0:11:42.56,0:11:43.97,Isshuu-Main,Yuuki,0,0,0,,I really respect you.
+Dialogue: 10,0:11:44.53,0:11:48.83,Isshuu-Main,Kaori,0,0,0,,I'm often bored at home, so I just end up studying.
+Dialogue: 10,0:11:49.37,0:11:52.94,Isshuu-Main,Yuuki,0,0,0,,If I'm bored, I just end up hanging out with friends.
+Dialogue: 10,0:11:55.75,0:11:56.39,Isshuu-Main,Kaori,0,0,0,,Um,
+Dialogue: 10,0:11:57.68,0:12:01.57,Isshuu-Main,Kaori,0,0,0,,Hase-kun, when you hang out with friends, where do you usually go?
+Dialogue: 10,0:12:01.92,0:12:04.49,Isshuu-Main,Yuuki,0,0,0,,Hm... Karaoke, I guess?
+Dialogue: 10,0:12:05.13,0:12:07.11,Isshuu-Main,Kaori,0,0,0,,Is karaoke fun?
+Dialogue: 10,0:12:07.58,0:12:10.61,Isshuu-Main,Yuuki,0,0,0,,Wait, have you never been to a karaoke place before?
+Dialogue: 10,0:12:15.04,0:12:16.44,Isshuu-Main,Yuuki,0,0,0,,S-Sorry!
+Dialogue: 10,0:12:16.44,0:12:19.76,Isshuu-Main,Yuuki,0,0,0,,Well, then, would you like to sing some karaoke with me?
+Dialogue: 10,0:12:19.76,0:12:21.13,Isshuu-Main,Kaori,0,0,0,,That's impossible!
+Dialogue: 10,0:12:24.73,0:12:26.25,Isshuu-Main,Kaori,0,0,0,,S-Sorry...
+Dialogue: 10,0:12:27.33,0:12:30.10,Isshuu-Main,Yuuki,0,0,0,,Well, it {\i1}was{\i0} kinda out of the blue...
+Dialogue: 10,0:12:30.99,0:12:34.10,Isshuu-Main,Yuuki,0,0,0,,Anyway, hopefully you'll get a chance.
+Dialogue: 10,0:12:36.17,0:12:36.85,Isshuu-Main,Kaori,0,0,0,,Yeah.
+Dialogue: 10,0:12:38.54,0:12:39.67,Isshuu-Main,Kaori,0,0,0,,Sure...
+Comment: 10,0:12:43.34,0:12:46.12,Isshuu-Main,,0,0,0,,Eyecatch
+Dialogue: 10,0:12:47.16,0:12:48.74,Isshuu-Main,Both,0,0,0,,Thanks for the food.
+Dialogue: 10,0:12:48.74,0:12:50.70,Isshuu-Main,Yuuki,0,0,0,,I'm still a little hungry...
+Dialogue: 10,0:12:50.70,0:12:53.63,Isshuu-Main,Yuuki,0,0,0,,I should've bought some dessert or something.
+Dialogue: 10,0:12:54.19,0:12:56.67,Isshuu-Main,Kaori,0,0,0,,I don't have any food to share, but speaking of desserts,{i.e. it's not food. edits pls}
+Dialogue: 10,0:12:58.17,0:13:00.88,Isshuu-Main,Kaori,0,0,0,,apparently there's a new crepe shop near the station!{WHY IS EVERY NEW STORE A CREPE STORE}
+Dialogue: 10,0:13:01.46,0:13:03.84,Isshuu-Main,Yuuki,0,0,0,,Crepes, huh? Sounds delicious.
+Dialogue: 10,0:13:03.84,0:13:05.43,Isshuu-Main,Kaori,0,0,0,,Do you like crepes too, Hase-kun?
+Dialogue: 10,0:13:05.43,0:13:07.24,Isshuu-Main,Yuuki,0,0,0,,Y-Yeah.
+Dialogue: 10,0:13:07.75,0:13:10.43,Isshuu-Main,Yuuki,0,0,0,,I'm a fan of the chocolate and custard ones.
+Dialogue: 10,0:13:10.88,0:13:13.54,Isshuu-Main,Kaori,0,0,0,,I love strawberries and cream inside my crepes.
+Dialogue: 10,0:13:14.00,0:13:15.88,Isshuu-Main,Kaori,0,0,0,,Blueberry cheesecake is good too...
+Dialogue: 10,0:13:15.88,0:13:18.19,Isshuu-Main,Kaori,0,0,0,,There's this one place where my mom and I go a lot,
+Dialogue: 10,0:13:18.19,0:13:22.19,Isshuu-Main,Kaori,0,0,0,,but there's only one bench there, and it's always taken.
+Dialogue: 10,0:13:22.64,0:13:25.72,Isshuu-Main,Kaori,0,0,0,,What do you think? This shop seems to have a lot of places to sit...
+Dialogue: 10,0:13:27.77,0:13:34.24,Isshuu-Main,Kaori,0,0,0,,I-I was just thinking that other people might be interested in this shop.
+Dialogue: 10,0:13:34.24,0:13:37.17,Isshuu-Main,Kaori,0,0,0,,I wasn't trying to say we should go together or anything...
+Dialogue: 10,0:13:37.63,0:13:38.48,Isshuu-Main,Yuuki,0,0,0,,For what it's worth, I'd be down—
+Dialogue: 10,0:13:38.48,0:13:40.36,Isshuu-Main,Kaori,0,0,0,,And we're not even friends, so... {critical hit...}
+Dialogue: 10,0:13:41.80,0:13:44.19,Isshuu-Main,Yuuki,0,0,0,,We aren't friends, huh...
+Dialogue: 10,0:13:44.19,0:13:45.95,Isshuu-Main,Kaori,0,0,0,,Uh, well...
+Dialogue: 10,0:13:45.95,0:13:49.05,Isshuu-Main,Yuuki,0,0,0,,What do you consider to be friends, then?
+Dialogue: 10,0:13:49.48,0:13:50.00,Isshuu-Main,Kaori,0,0,0,,Huh?
+Dialogue: 10,0:13:50.45,0:13:53.25,Isshuu-Main,Yuuki,0,0,0,,Like, what kind of things do friends talk about?
+Dialogue: 10,0:13:55.14,0:13:56.37,Isshuu-Main,Kaori,0,0,0,,Love!
+Dialogue: 10,0:13:56.37,0:13:57.23,Isshuu-Main,Yuuki,0,0,0,,Love talk?
+Dialogue: 10,0:13:57.87,0:14:01.56,Isshuu-Main,Yuuki,0,0,0,,Love, huh? That's kinda tough, considering I'm not crushing on anyone right now...
+Dialogue: 10,0:14:01.56,0:14:03.75,Isshuu-Main,Yuuki,0,0,0,,As far as people I might be interested in...
+Dialogue: 10,0:14:04.74,0:14:05.82,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
+Dialogue: 10,0:14:05.82,0:14:09.36,Isshuu-Main,Kaori,0,0,0,,But since we aren't friends, \Nwe don't need to talk about love.
+Dialogue: 10,0:14:09.36,0:14:10.61,Isshuu-Main,Yuuki,0,0,0,,Right.
+Dialogue: 10,0:14:14.74,0:14:15.92,Isshuu-Main,Kaori,0,0,0,,I'm home!
+Dialogue: 10,0:14:17.22,0:14:18.33,Isshuu-Main,Kaorimom,0,0,0,,Welcome back.
+Dialogue: 10,0:14:19.39,0:14:21.48,Isshuu-Main,Kaori,0,0,0,,I'll wash this later, so I'm leaving it here.
+Dialogue: 10,0:15:04.22,0:15:05.75,Isshuu-Main,Yuuki,0,0,0,,Thanks for the food!
+Dialogue: 10,0:15:06.13,0:15:07.88,Isshuu-Main,Yuuki,0,0,0,,Man, that was delicious.
+Dialogue: 10,0:15:13.35,0:15:16.72,Isshuu-Main,Yuuki,0,0,0,,You've hardly touched your food.
+Dialogue: 10,0:15:17.78,0:15:20.27,Isshuu-Main,Kaori,0,0,0,,I'm not feeling that hungry, that's all...
+Dialogue: 10,0:15:20.27,0:15:22.06,Isshuu-Main,Yuuki,0,0,0,,Huh? Are you okay?
+Dialogue: 10,0:15:22.81,0:15:25.27,Isshuu-Main,Kaori,0,0,0,,Yeah. I'm fine.
+Dialogue: 10,0:15:28.92,0:15:30.90,Isshuu-Main,Yuki,0,0,0,,We've got bio next, right?
+Dialogue: 10,0:15:31.54,0:15:33.67,Isshuu-Main,Yuki,0,0,0,,Honestly, I might just sleep through it.
+Dialogue: 10,0:15:33.67,0:15:35.58,Isshuu-Main,Yuki,0,0,0,,Don't want to fail it, though...
+Dialogue: 10,0:15:35.58,0:15:38.51,Isshuu-Main,Yuki,0,0,0,,But I should be more worried about math.
+Dialogue: 10,0:15:39.00,0:15:41.08,Isshuu-Main,Yuki,0,0,0,,You're pretty good at math, right?
+Dialogue: 10,0:15:41.50,0:15:43.94,Isshuu-Main,Yuki,0,0,0,,Oh yeah, maybe at some point, you think—
+Dialogue: 10,0:15:43.94,0:15:44.94,Isshuu-Main,Kaori,0,0,0,,Hase-kun.
+Dialogue: 10,0:15:46.16,0:15:46.92,Isshuu-Main,Yuuki,0,0,0,,What is it?
+Dialogue: 10,0:15:49.44,0:15:51.97,Isshuu-Main,Kaori,0,0,0,,Don't talk to me anymore.
+Dialogue: 10,0:15:53.26,0:15:55.06,Isshuu-Main,Yuuki,0,0,0,,Wh-Why?
+Dialogue: 10,0:15:57.25,0:15:59.39,Isshuu-Main,Yuuki,0,0,0,,Did I do anything wrong?
+Dialogue: 10,0:15:59.39,0:16:00.72,Isshuu-Main,Yuuki,0,0,0,,Why are you—
+Dialogue: 10,0:16:00.72,0:16:01.99,Isshuu-Main,Kaori,0,0,0,,I told you, didn't I?
+Dialogue: 10,0:16:02.46,0:16:05.84,Isshuu-Main,Kaori,0,0,0,,I can't be friends with anyone.{feel free to revert}{It's impossible for me to make friends.}
+Dialogue: 10,0:16:08.75,0:16:12.46,Isshuu-Main,Kaori,0,0,0,,I want you to act like this never happened.
+Dialogue: 10,0:16:14.02,0:16:16.41,Isshuu-Main,Kaori,0,0,0,,I'll forget everything, too...
+Dialogue: 10,0:16:18.63,0:16:19.79,Isshuu-Main,Yuuki,0,0,0,,That's impossible...
+Dialogue: 10,0:16:20.36,0:16:22.23,Isshuu-Main,Yuuki,0,0,0,,I won't forget that easily...
+Dialogue: 10,0:16:23.03,0:16:24.30,Isshuu-Main,Yuuki,0,0,0,,You won't really forget me, will you?
+Dialogue: 10,0:16:24.65,0:16:25.58,Isshuu-Main,Kaori,0,0,0,,I will!
+Dialogue: 10,0:16:31.27,0:16:34.21,Isshuu-Main,Kaori,0,0,0,,On Monday, all the memories of the fun times we shared...
+Dialogue: 10,0:16:34.82,0:16:36.75,Isshuu-Main,Kaori,0,0,0,,will disappear.
+Dialogue: 10,0:16:39.07,0:16:41.15,Isshuu-Main,Kaori,0,0,0,,It's not just the fun memories, either.
+Dialogue: 10,0:16:41.57,0:16:49.71,Isshuu-Main,Kaori,0,0,0,,I forget everything about the people I get\Nclose to and want to continue to be with, too.
+Dialogue: 10,0:16:50.83,0:16:52.72,Isshuu-Main,Kaori,0,0,0,,My family seems to be the only exception.
+Dialogue: 10,0:16:54.14,0:16:57.66,Isshuu-Main,Kaori,0,0,0,,That's why I can't remember my friends.
+Dialogue: 10,0:16:59.20,0:17:00.33,Isshuu-Main,Yuuki,0,0,0,,What is this...
+Dialogue: 10,0:17:03.84,0:17:07.62,Isshuu-Main,Yuuki,0,0,0,,But that's okay! We aren't friends, are we?
+Dialogue: 10,0:17:07.62,0:17:08.60,Isshuu-Main,Yuuki,0,0,0,,In that case...
+Dialogue: 10,0:17:08.60,0:17:11.67,Isshuu-Main,Kaori,0,0,0,,I know this, though.
+Dialogue: 10,0:17:12.92,0:17:16.72,Isshuu-Main,Kaori,0,0,0,,All my memories of you will disappear.
+Dialogue: 10,0:17:24.98,0:17:25.96,Isshuu-Main,Yuuki,0,0,0,,I...
+Dialogue: 10,0:17:27.00,0:17:28.38,Isshuu-Main,Yuuki,0,0,0,,I can't believe this.
+Dialogue: 10,0:17:44.15,0:17:46.19,Isshuu-Main,Shougo,0,0,0,,Been a while since we've\Ndone something like this.
+Dialogue: 10,0:17:49.54,0:17:53.42,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san told me not to talk to her again.
+Dialogue: 10,0:17:54.23,0:17:57.80,Isshuu-Main,Yuuki,0,0,0,,She'd forget everything, and she told me to forget everything, too.
+Dialogue: 10,0:17:57.80,0:18:00.37,Isshuu-Main,Shougo,0,0,0,,I see. Doesn't that mean...
+Dialogue: 10,0:18:00.37,0:18:00.95,Isshuu-Main,Yuuki,0,0,0,,Yeah?
+Dialogue: 10,0:18:01.51,0:18:03.27,Isshuu-Main,Shougo,0,0,0,,that she totally hates you?
+Dialogue: 10,0:18:03.97,0:18:05.73,Isshuu-Main,Yuuki,0,0,0,,You think so, too?
+Dialogue: 10,0:18:06.58,0:18:08.44,Isshuu-Main,Yuuki,0,0,0,,That'd be the usual conclusion to draw...
+Dialogue: 10,0:18:08.44,0:18:11.59,Isshuu-Main,Shougo,0,0,0,,She's always by herself, right?
+Dialogue: 10,0:18:11.59,0:18:14.66,Isshuu-Main,Shougo,0,0,0,,You never know what she's thinking. What about her appeals to you?
+Dialogue: 10,0:18:16.88,0:18:17.79,Isshuu-Main,Yuuki,0,0,0,,Her face.
+Dialogue: 10,0:18:17.79,0:18:19.84,Isshuu-Main,Shougo,0,0,0,,Boy, you're simple.
+Dialogue: 10,0:18:19.84,0:18:21.53,Isshuu-Main,Yuuki,0,0,0,,Does it matter?
+Dialogue: 10,0:18:22.21,0:18:27.50,Isshuu-Main,Shougo,0,0,0,,If you're trying to be friends, you just have to keep talking and see if you get along.
+Dialogue: 10,0:18:28.35,0:18:31.07,Isshuu-Main,Shougo,0,0,0,,Friendship isn't something you can force.
+Dialogue: 10,0:18:31.64,0:18:34.50,Isshuu-Main,Shougo,0,0,0,,It'd be different if you were \Ntrying to go out with her, but...
+Dialogue: 10,0:18:39.19,0:18:42.97,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san isn't as cold\Nas everyone makes her out to be.
+Dialogue: 10,0:18:42.97,0:18:45.19,Isshuu-Main,Yuuki,0,0,0,,She's bright, loves talking to people,
+Dialogue: 10,0:18:45.84,0:18:49.94,Isshuu-Main,Yuuki,0,0,0,,and waits for you if you're late for lunch.
+Dialogue: 10,0:18:50.92,0:18:56.49,Isshuu-Main,Yuuki,0,0,0,,If everyone tried talking to her,\NI'm sure she'd be friends with everyone.
+Dialogue: 10,0:18:56.49,0:18:59.86,Isshuu-Main,Yuuki,0,0,0,,She's a nice and sweet girl.
+Dialogue: 10,0:19:04.36,0:19:05.53,Isshuu-Main,Shougo,0,0,0,,So cheesy.
+Dialogue: 10,0:19:06.62,0:19:08.85,Isshuu-Main,Yuuki,0,0,0,,Wh-What's that supposed to mean?
+Dialogue: 10,0:19:08.85,0:19:10.62,Isshuu-Main,Shougo,0,0,0,,Sorry. Don't worry about it.
+Dialogue: 10,0:19:11.87,0:19:16.14,Isshuu-Main,Shougo,0,0,0,,Well, if that's the true Fujimiya,
+Dialogue: 10,0:19:16.59,0:19:20.59,Isshuu-Main,Shougo,0,0,0,,then you're probably special to her.
+Dialogue: 10,0:19:21.52,0:19:22.91,Isshuu-Main,Yuuki,0,0,0,,You think?
+Dialogue: 10,0:19:23.61,0:19:25.30,Isshuu-Main,Shougo,0,0,0,,I'd say you made a lot of progress.
+Dialogue: 10,0:19:25.72,0:19:28.13,Isshuu-Main,Shougo,0,0,0,,Compared to how she was on Monday...
+Dialogue: 10,0:19:29.43,0:19:30.44,Isshuu-Main,Yuuki,0,0,0,,Shougo...
+Dialogue: 10,0:19:31.07,0:19:34.65,Isshuu-Main,Shougo,0,0,0,,Since you've already come this far,\Nyou might as well go for it.
+Dialogue: 10,0:19:37.79,0:19:39.11,Isshuu-Main,Yuuki,0,0,0,,You're right.
+Dialogue: 10,0:19:47.76,0:19:50.96,Isshuu-Main,Kaorimom,0,0,0,,Kaori? Dad bought a cake.
+Dialogue: 10,0:19:50.96,0:19:52.88,Isshuu-Main,Kaori,0,0,0,,Okay. I'll come down later.
+Dialogue: 10,0:20:08.98,0:20:11.58,Isshuu-Main,Kaori,0,0,0,,{\i1}We aren't friends.
+Dialogue: 10,0:20:32.49,0:20:33.67,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san.
+Dialogue: 10,0:20:37.11,0:20:38.67,Isshuu-Main,Kaori,0,0,0,,Wh-What is it?
+Dialogue: 10,0:20:43.39,0:20:48.16,Isshuu-Main,Yuuki,0,0,0,,{\i1}I began to understand what Fujimiya-san meant.
+Dialogue: 10,0:20:50.14,0:20:55.15,Isshuu-Main,Yuuki,0,0,0,,{\i1}There were no lies in her words.
+Dialogue: 10,0:20:55.71,0:21:01.44,Isshuu-Main,Yuuki,0,0,0,,{\i1}The week we spent together was \Ncompletely gone from her memory.
+Dialogue: 10,0:21:03.46,0:21:04.94,Isshuu-Main,Yuuki,0,0,0,,{\i1}The happiness we shared...
+Dialogue: 10,0:21:05.38,0:21:07.07,Isshuu-Main,Yuuki,0,0,0,,{\i1}The connections we made...
+Dialogue: 10,0:21:07.07,0:21:12.29,Isshuu-Main,Yuuki,0,0,0,,{\i1}All those would be reset on Monday, forcing them to be rebuilt.
+Dialogue: 10,0:21:13.34,0:21:18.13,Isshuu-Main,Yuuki,0,0,0,,{\i1}Fujimiya-san knew about this,\Nand kept herself from making friends.
+Dialogue: 10,0:21:19.15,0:21:19.92,Isshuu-Main,Kaori,0,0,0,,Excuse me?
+Dialogue: 10,0:21:21.51,0:21:23.80,Isshuu-Main,Kaori,0,0,0,,If all you're going to do is stand there, then...
+Dialogue: 10,0:21:23.80,0:21:24.76,Isshuu-Main,Yuuki,0,0,0,,Fujimiya-san!
+Dialogue: 10,0:21:30.89,0:21:33.14,Isshuu-Main,Yuuki,0,0,0,,{\i1}But I knew.
+Dialogue: 10,0:21:35.75,0:21:37.69,Isshuu-Main,Yuuki,0,0,0,,{\i1}I knew that she...
+Dialogue: 10,0:21:39.22,0:21:41.57,Isshuu-Main,Yuuki,0,0,0,,{\i1}wanted to make friends, more than anybody else.
+Dialogue: 10,0:21:42.91,0:21:48.07,Isshuu-Main,Yuuki,0,0,0,,{\i1}That's why I decided to say those words, however many times it took.
+Dialogue: 10,0:21:51.04,0:21:51.87,Isshuu-Main,Yuuki,0,0,0,,Please...
+Dialogue: 10,0:21:53.17,0:21:54.79,Isshuu-Main,Yuuki,0,0,0,,be my friend.
+Comment: 10,0:22:00.63,0:23:16.98,Isshuu-Main,,0,0,0,,ED
+Dialogue: 10,0:23:35.89,0:23:37.89,Isshuu-Main,Kaori,0,0,0,,{\an8}How to spend time with friends.
 Comment: 0,0:01:34.45,0:01:36.45,OP-Rom,,0,0,0,,OP
 Dialogue: 1,0:01:36.45,0:01:44.16,OP-Rom,,0,0,0,,{\fad(200,200)\fax0.2\be1\3c&HD2E19B&\t(3859,4568,\3c&HEAD1C7&)}ashita mo kou shite kimi no soba ni ite
 Dialogue: 1,0:01:44.16,0:01:50.50,OP-Rom,,0,0,0,,{\fad(200,200)\fax0.2\be1\3c&HEAD1C7&\t(1237,1821,\3c&HD2E19B&)}onaji toki wo sugoshite itai na
@@ -767,7 +768,7 @@ Dialogue: 0,0:14:57.00,0:14:57.04,Signs,,0,0,0,,{\fscx117.56\fscy117.56\bord0\sh
 Dialogue: 0,0:14:57.04,0:14:57.08,Signs,,0,0,0,,{\fscx117.7\fscy117.7\bord0\shad0\c&H435598&\blur1.18\fnLLCharlotte\frx7\fs102\pos(429.49,16.17)\frz14.59}T{\c&H485B9E&}h{\c&H4A5DA2&}u
 Dialogue: 0,0:15:01.42,0:15:03.92,Signs,,0,0,0,,{\bord0\be4\shad0\c&HFFFFFD&\fs32\fscy120\p1\pos(749.943,335.086)}m -71 256 b -49 256 -33 259 -17 265 b 1 243 41 245 65 264 b 94 241 116 250 133 258 b 152 284 146 315 126 321 b 122 324 94 336 65 312 b 48 338 13 334 -17 307 b -41 336 -70 322 -90 320 b -113 296 -110 257 -73 258
 Dialogue: 1,0:15:01.42,0:15:03.92,Signs,,0,0,0,,{\bord0\shad0\c&H262626&\fsp3\blur0.8\fnCF Rise of Nations\fs48\fscx110\fscy120\pos(640.857,592)}friday
-Dialogue: 0,0:17:31.07,0:17:33.57,Signs,,0,0,0,,{\bord0\be4\shad0\c&HFEFFFE&\b1\fn@ＤＦＰ太丸ゴシック体\fs32\fscy120\p1\pos(749.943,335.086)}m -71 256 b -49 256 -33 259 -17 265 b 1 243 41 245 65 264 b 94 241 116 250 133 258 b 152 284 146 315 126 321 b 122 324 94 336 65 312 b 48 338 13 334 -17 307 b -41 336 -70 322 -90 320 b -113 296 -110 257 -73 258
+Dialogue: 0,0:17:31.07,0:17:33.57,Signs,,0,0,0,,{\bord0\be4\shad0\c&HFEFFFE&\b1\fs32\fscy120\p1\pos(749.943,335.086)}m -71 256 b -49 256 -33 259 -17 265 b 1 243 41 245 65 264 b 94 241 116 250 133 258 b 152 284 146 315 126 321 b 122 324 94 336 65 312 b 48 338 13 334 -17 307 b -41 336 -70 322 -90 320 b -113 296 -110 257 -73 258
 Dialogue: 1,0:17:31.07,0:17:33.57,Signs,,0,0,0,,{\bord0\shad0\c&H262626&\fsp3\blur0.8\fnCF Rise of Nations\fs48\fscx110\fscy120\pos(643.143,592)}saturday
 Comment: 0,0:22:58.52,0:23:04.65,Signs,,0,0,0,,{\fscx100\fscy100\bord0\shad0\c&H1B1715&\fs41\blur0.6\fnKristin\b1\pos(611.601,345.6)}Read the diary
 Dialogue: 0,0:22:58.52,0:22:58.57,Signs,,0,0,0,,{\fscx100\fscy100\bord0\shad0\c&H1B1715&\fs41\blur0.6\fnKristin\b1\pos(611.6,345.6)}Read the diary
