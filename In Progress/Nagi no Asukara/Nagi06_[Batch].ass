@@ -16,8 +16,8 @@ Video File: ../06/nagi 6 premux CR audio.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 48
-Active Line: 59
+Scroll Position: 345
+Active Line: 349
 Video Position: 1893
 
 [V4+ Styles]
@@ -391,7 +391,7 @@ Dialogue: 10,0:21:48.82,0:21:50.45,Nagi-Default,Hikari,0,0,0,,Even that crybaby.
 Dialogue: 10,0:21:55.78,0:21:57.51,Nagi-Default,Hikari,0,0,0,,{\i1}Even Manaka...
 Comment: 10,0:00:00.00,0:00:00.00,Nagi-Default,,0,0,0,,ED
 Dialogue: 10,0:23:31.30,0:23:32.72,Nagi-Default,People,0,0,0,,I want to do the Sending...
-Dialogue: 10,0:23:32.72,0:23:33.68,Nagi-Default,Teach,0,0,0,,This is your youth!
+Dialogue: 10,0:23:32.72,0:23:33.68,Nagi-Default,Teach,0,0,0,,This is what youth is about!
 Dialogue: 10,0:23:33.68,0:23:35.18,Nagi-Default,Sakishima(I think),0,0,0,,Stop seeing that man.
 Dialogue: 10,0:23:35.18,0:23:36.74,Nagi-Default,Person,0,0,0,,Why'd it come to this?
 Dialogue: 10,0:23:36.74,0:23:40.19,Nagi-Default,Hikari,0,0,0,,We aren't fish, just like they aren't pigs!
