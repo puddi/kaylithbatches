@@ -16,8 +16,8 @@ Video File: ../10/nagi 10 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 689
-Active Line: 705
+Scroll Position: 360
+Active Line: 374
 Video Position: 859
 
 [V4+ Styles]
@@ -416,8 +416,8 @@ Dialogue: 10,0:21:58.14,0:21:59.04,Nagi-Default,chisa,0,0,0,,What?!
 Comment: 10,0:00:00.00,0:00:00.00,Nagi-Default,,0,0,0,,#ED
 Dialogue: 10,0:23:30.93,0:23:32.40,Nagi-Default,itaru(?),0,0,0,,You sure it's okay?
 Dialogue: 10,0:23:32.40,0:23:33.36,Nagi-Default,hikari,0,0,0,,I'm going to eat.
-Dialogue: 10,0:23:33.36,0:23:34.34,Nagi-Default,manaka,0,0,0,,I'm going to eat, too!
-Dialogue: 10,0:23:34.34,0:23:35.22,Nagi-Default,chisa,0,0,0,,You're going to get in trouble.
+Dialogue: 10,0:23:33.36,0:23:34.34,Nagi-Default,manaka,0,0,0,,I'm going to eat too!
+Dialogue: 10,0:23:34.34,0:23:35.22,Nagi-Default,chisa,0,0,0,,You'll get in trouble.
 Dialogue: 10,0:23:35.22,0:23:37.35,Nagi-Default,weirdo,0,0,0,,You saw, didn't you?
 Dialogue: 10,0:23:37.35,0:23:39.66,Nagi-Default,hikari,0,0,0,,We seriously are going to sleep...
 Comment: 0,0:23:39.66,0:23:41.66,Nagi-Default,,0,0,0,,OP
