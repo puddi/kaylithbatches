@@ -11,13 +11,14 @@ PlayResY: 720
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
-Audio File: glasslip07_premux.mkv
-Video File: glasslip07_premux.mkv
+Audio File: ../../../../../../../Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
+Video File: ../../../../../../../Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
+Video Zoom Percent: 0.750000
 Scroll Position: 299
-Active Line: 311
-Video Position: 33829
+Active Line: 310
+Video Position: 31020
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -347,9 +348,11 @@ Dialogue: 10,0:21:11.89,0:21:12.83,Glasslip-Main,Yanagi,0,0,0,,I'm gonna leave n
 Dialogue: 10,0:21:14.51,0:21:14.96,Glasslip-Main,Touko,0,0,0,,Um—
 Dialogue: 10,0:21:17.60,0:21:19.04,Glasslip-Main,Yanagi,0,0,0,,{\i1}You guys deserve each other.{chop the "really" if too long}
 Dialogue: 10,0:21:25.21,0:21:25.72,Glasslip-Main,Kakeru,0,0,0,,Touko!
+Dialogue: 0,0:21:29.80,0:21:31.26,Glasslip-Main,,0,0,0,,No...
+Dialogue: 0,0:21:31.26,0:21:32.22,Glasslip-Main,,0,0,0,,No!
 Comment: 10,0:22:00.09,0:23:30.55,Glasslip-Main,,0,0,0,,ED
-Dialogue: 10,0:23:30.92,0:23:32.93,Glasslip-Main,Yanagi,0,0,0,,How about you tell me\Nexactly what's going on?
-Dialogue: 10,0:23:32.93,0:23:34.44,Glasslip-Main,Sachi,0,0,0,,I'm not going to ask.
+Dialogue: 10,0:23:30.92,0:23:32.93,Glasslip-Main,Yanagi,0,0,0,,You've got a lot of explaining to do later.
+Dialogue: 10,0:23:32.93,0:23:34.44,Glasslip-Main,Sachi,0,0,0,,Well, I won't ask.
 Dialogue: 10,0:23:34.44,0:23:36.07,Glasslip-Main,Kakeru,0,0,0,,Touko! What's wrong?
 Dialogue: 10,0:23:36.07,0:23:37.02,Glasslip-Main,Kakeru,0,0,0,,What did you see?!
 Dialogue: 10,0:23:37.02,0:23:39.51,Glasslip-Main,Touko,0,0,0,,I want to go see Jonathan.
@@ -458,5 +461,5 @@ Dialogue: 0,0:18:42.47,0:18:44.22,Signs,,0,0,0,,{\blur0.8\fs90\fnRoboto\c&H5D484
 Dialogue: 0,0:18:42.47,0:18:44.22,Signs,,0,0,0,,{\blur0.8\fs90\fnRoboto\c&H493A35&\fax0.09\frz30.02\pos(550.73,425.461)}I {*\c&H483A35&}ca{*\c&H483935&}n{*\c&H473935&}'t {*\c&H463935&}mak{*\c&H463835&}e {*\c&H453835&}it {*\c&H443835&}to{*\c&H433835&}d{*\c&H433735&}ay{*\c&H423735&}.{\c&H423735&}
 Dialogue: 1,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(220.861,211.586)}Episode 8
 Dialogue: 1,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(220.861,211.586)}Episode 8
-Dialogue: 0,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\c&H000000&\1a&H8C&\pos(218.718,430.871)}Yuki
-Dialogue: 1,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(218.718,430.871)}Yuki
+Dialogue: 0,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\c&H000000&\1a&H8C&\pos(218.718,430.871)}Snow
+Dialogue: 1,0:23:37.02,0:23:40.06,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(218.718,430.871)}Snow
