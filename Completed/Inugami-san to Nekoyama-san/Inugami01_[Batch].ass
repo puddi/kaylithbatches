@@ -12,13 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Isshukan Friends
-Audio File: ../../../../../../../Fansubbing/Kaylith/.zComplete/Inugami/01/inugami01_premux.mkv
-Video File: ../../../../../../../Fansubbing/Kaylith/.zComplete/Inugami/01/inugami01_premux.mkv
+Audio File: ../../../../../Downloads/[Kaylith] Inugami-san to Nekoyama-san - TV Batch/[Kaylith] Inugami-san to Nekoyama-san - 01 [720p][4A92B9B0].mkv
+Video File: ../../../../../Downloads/[Kaylith] Inugami-san to Nekoyama-san - TV Batch/[Kaylith] Inugami-san to Nekoyama-san - 01 [720p][4A92B9B0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 3
-Video Position: 3434
+Video Zoom Percent: 0.500000
+Scroll Position: 73
+Active Line: 76
+Video Position: 3761
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +34,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:02.98,0:00:04.94,Inugami-Main,Inugami,0,0,0,,{\i1}Inugami Yachiyo, 16 years old.
 Dialogue: 10,0:00:04.94,0:00:06.73,Inugami-Main,Inugami,0,0,0,,{\i1}Despite Inugami being my last name,\NI'm all about cats.
 Dialogue: 10,0:00:07.16,0:00:08.59,Inugami-Main,Hiiragi,0,0,0,,What's so great about cats?
-Dialogue: 10,0:00:08.59,0:00:12.74,Inugami-Main,Inugami,0,0,0,,Well... I'm the type who prefers\Nto be subdued rather than to subdue.
+Dialogue: 10,0:00:08.59,0:00:12.74,Inugami-Main,Inugami,0,0,0,,Well... I'm the type who prefers to be \Ndisciplined rather than discipline others.
 Dialogue: 10,0:00:12.74,0:00:14.49,Inugami-Main,Hiiragi,0,0,0,,But with your personality,\Nwouldn't you be all for dogs?
 Dialogue: 10,0:00:14.49,0:00:18.35,Inugami-Main,Inugami,0,0,0,,No! See, cats bring out the\Nmasochistic tendencies within me!
 Dialogue: 10,0:00:18.35,0:00:20.25,Inugami-Main,Hiiragi,0,0,0,,What kind of reply is that?
@@ -79,17 +80,17 @@ Dialogue: 10,0:01:38.24,0:01:40.16,Inugami-Main,Nekoyama,0,0,0,,Huh? My gym clot
 Dialogue: 10,0:01:40.16,0:01:41.16,Inugami-Main,Hiiragi,0,0,0,,Really?
 Dialogue: 10,0:01:41.16,0:01:43.61,Inugami-Main,Inugami,0,0,0,,I think you might have put\Nthem in {\i1}your{\i0} bag accidentally.
 Dialogue: 10,0:01:44.25,0:01:45.75,Inugami-Main,Hiiragi,0,0,0,,Oh, you're right.
-Dialogue: 10,0:01:45.75,0:01:47.67,Inugami-Main,Nekoyama,0,0,0,,Amazing! How'd you know?
+Dialogue: 10,0:01:45.75,0:01:47.67,Inugami-Main,Nekoyama,0,0,0,,That's amazing! How'd you know?
 Dialogue: 10,0:01:48.10,0:01:49.17,Inugami-Main,Inugami,0,0,0,,Through your scent!
 Dialogue: 10,0:01:49.17,0:01:53.02,Inugami-Main,Inugami,0,0,0,,If it's within a radius of 100 meters,\NI'll know it's yours, Nekoyama-san.
 Dialogue: 10,0:01:53.02,0:01:54.04,Inugami-Main,Hiiragi,0,0,0,,She's a pervert.
 Dialogue: 10,0:01:54.04,0:01:55.21,Inugami-Main,Hiiragi,0,0,0,,A genuine pervert.
 Comment: 10,0:01:55.21,0:01:56.17,Inugami-Main,,0,0,0,,Eyecatch
-Dialogue: 10,0:01:55.73,0:01:58.48,Inugami-Main,Hiiragi,0,0,0,,If I recall correctly, you own dogs, right, Inugami?
+Dialogue: 10,0:01:55.73,0:01:58.48,Inugami-Main,Hiiragi,0,0,0,,If I recall correctly, you have dogs, right, Inugami?
 Dialogue: 10,0:01:58.48,0:01:59.79,Inugami-Main,Inugami,0,0,0,,Yup, three of them.
 Dialogue: 10,0:02:00.43,0:02:01.08,Inugami-Main,Nekoyama,0,0,0,,Wow!
-Dialogue: 10,0:02:01.08,0:02:02.54,Inugami-Main,Nekoyama,0,0,0,,Really?! Really?!
-Dialogue: 10,0:02:02.54,0:02:04.43,Inugami-Main,Inugami,0,0,0,,If you'd like, would you\Nwant to come and see them?
+Dialogue: 10,0:02:01.08,0:02:02.54,Inugami-Main,Nekoyama,0,0,0,,Really?! I'm so jealous!
+Dialogue: 10,0:02:02.54,0:02:04.43,Inugami-Main,Inugami,0,0,0,,Would you like to come and see them?
 Dialogue: 10,0:02:04.92,0:02:05.72,Inugami-Main,Nekoyama,0,0,0,,Can I?
 Dialogue: 10,0:02:05.72,0:02:08.44,Inugami-Main,Inugami,0,0,0,,Of course. My parents aren't home, either.
 Dialogue: 10,0:02:08.44,0:02:10.22,Inugami-Main,Inugami,0,0,0,,This calls for an all-nighter for two!
@@ -100,14 +101,14 @@ Dialogue: 10,0:02:18.53,0:02:20.45,Inugami-Main,Inugami,0,0,0,,Really. What am {
 Dialogue: 10,0:02:20.45,0:02:21.69,Inugami-Main,Nekoyama,0,0,0,,Can I pet them?
 Dialogue: 10,0:02:21.69,0:02:23.24,Inugami-Main,Inugami,0,0,0,,Of course you can!
 Dialogue: 10,0:02:23.66,0:02:24.95,Inugami-Main,Nekoyama,0,0,0,,He's so fluffy!
-Dialogue: 10,0:02:24.95,0:02:26.70,Inugami-Main,Inugami,0,0,0,,Watching this is so relaxing.
+Dialogue: 10,0:02:24.95,0:02:26.70,Inugami-Main,Inugami,0,0,0,,Watching this is so rejuvenating.
 Dialogue: 10,0:02:26.70,0:02:28.96,Inugami-Main,Hiiragi,0,0,0,,I, on the other hand, am feeling restless.
 Dialogue: 10,0:02:29.56,0:02:30.98,Inugami-Main,Nekoyama,0,0,0,,That really tickles!
 Dialogue: 10,0:02:30.98,0:02:32.96,Inugami-Main,Inugami,0,0,0,,Hey! Don't lick her!
 Dialogue: 10,0:02:32.96,0:02:34.78,Inugami-Main,Nekoyama,0,0,0,,It's not a problem, really.
 Dialogue: 10,0:02:34.78,0:02:36.84,Inugami-Main,Inugami,0,0,0,,Nonsense. You're dirty now.
-Dialogue: 10,0:02:36.84,0:02:38.97,Inugami-Main,Inugami,0,0,0,,Let me clean you up instead.
-Dialogue: 10,0:02:38.97,0:02:41.74,Inugami-Main,Nekoyama,0,0,0,,The way you've put that\Nmakes me feel even more dirty!
+Dialogue: 10,0:02:36.84,0:02:38.97,Inugami-Main,Inugami,0,0,0,,Let me clean you up{instead}.
+Dialogue: 10,0:02:38.97,0:02:41.74,Inugami-Main,Nekoyama,0,0,0,,I feel even dirtier now that you've done that!
 Dialogue: 10,0:02:41.74,0:02:42.72,Inugami-Main,Inugami,0,0,0,,Come on!
 Dialogue: 10,0:02:42.72,0:02:43.62,Inugami-Main,Hiiragi,0,0,0,,{\i1}What is going on?
 Dialogue: 10,0:02:43.62,0:02:45.47,Inugami-Main,Hiiragi,0,0,0,,{\i1}Is this something I should really keep record of?
