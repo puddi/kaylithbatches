@@ -12,14 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Glasslip
-Audio File: glasslip08_premux.mkv
-Video File: glasslip08_premux.mkv
+Audio File: D:/Fansubbing/Kaylith/Glasslip/08/glasslip08_premux.mkv
+Video File: D:/Fansubbing/Kaylith/Glasslip/08/glasslip08_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 200
-Active Line: 212
-Video Position: 27998
+Video Zoom Percent: 0.625000
+Scroll Position: 226
+Active Line: 242
+Video Position: 33827
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,11 +277,11 @@ Dialogue: 10,0:21:15.10,0:21:16.44,Glasslip-Main,Touko,0,0,0,,No way...
 Dialogue: 10,0:21:17.41,0:21:17.83,Glasslip-Main,Kakeru,0,0,0,,Touko!
 Comment: 10,0:22:00.17,0:23:29.34,Glasslip-Main,,0,0,0,,ED
 Dialogue: 10,0:23:29.34,0:23:30.84,Glasslip-Main,Touko,0,0,0,,The promised place...
-Dialogue: 10,0:23:30.84,0:23:32.03,Glasslip-Main,Kakeru,0,0,0,,Let's go to that storeroom again.
-Dialogue: 10,0:23:32.03,0:23:33.74,Glasslip-Main,Yanagi,0,0,0,,I'm going to make myself anew!
+Dialogue: 10,0:23:30.84,0:23:32.03,Glasslip-Main,Kakeru,0,0,0,,I want to go to\Nthat storeroom again.
+Dialogue: 10,0:23:32.03,0:23:33.74,Glasslip-Main,Yanagi,0,0,0,,I'm going to become a new person.
 Dialogue: 10,0:23:33.74,0:23:34.77,Glasslip-Main,Yuki,0,0,0,,What a load of junk.
 Dialogue: 10,0:23:34.77,0:23:36.03,Glasslip-Main,Hiro,0,0,0,,For tomorrow?
-Dialogue: 10,0:23:36.03,0:23:38.85,Glasslip-Main,Sachi,0,0,0,,That'll be my line.
+Dialogue: 10,0:23:36.03,0:23:38.85,Glasslip-Main,Sachi,0,0,0,,That's what I wanted to tell you.
 Comment: 0,0:23:38.85,0:23:40.85,Glasslip-Main,,0,0,0,,OP
 Dialogue: 1,0:01:37.82,0:01:46.58,OP-Rom,,0,0,0,,{\fad(250,250)\be1}mune no naka de zawameiteru nami no hontou no imi wo
 Dialogue: 1,0:01:46.58,0:01:54.63,OP-Rom,,0,0,0,,{\fad(250,250)\be1}hizashi ni saegirarete watashi wa mada shiranai
