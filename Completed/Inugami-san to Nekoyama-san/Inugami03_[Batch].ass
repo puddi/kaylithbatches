@@ -11,14 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Inugami
-Audio File: [Kaylith] Inugami-san to Nekoyama-san - TV Batch/[Kaylith] Inugami-san to Nekoyama-san - 03 [720p][0C056F62].mkv
-Video File: [Kaylith] Inugami-san to Nekoyama-san - TV Batch/[Kaylith] Inugami-san to Nekoyama-san - 03 [720p][0C056F62].mkv
+Video File: D:/Fansubbing/Kaylith/Inugami BD/03/inugami03 premux 720p[9A4DC4EA].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 54
-Active Line: 62
-Video Position: 4404
+Video Zoom Percent: 0.625000
+Scroll Position: 39
+Active Line: 60
+Video Position: 4344
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,11 +29,11 @@ Style: OP-Eng,KG A Thousand Years,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.17,0:00:06.71,Inugami-Main,Hiiragi,0,0,0,,You sure are in a good mood this morning, Inugami.
+Dialogue: 0,0:00:04.17,0:00:06.71,Inugami-Main,Hiiragi,0,0,0,,You sure are in a good mood\Nthis morning, Inugami.
 Dialogue: 0,0:00:08.27,0:00:09.44,Inugami-Main,Inugami,0,0,0,,Ta-da!
 Dialogue: 0,0:00:09.44,0:00:11.78,Inugami-Main,Inugami,0,0,0,,Catnip tea!
-Dialogue: 0,0:00:11.78,0:00:14.78,Inugami-Main,Hiiragi,0,0,0,,{\i1}I can see where this is going, and it won't be pretty.
-Dialogue: 0,0:00:15.11,0:00:18.56,Inugami-Main,Hiiragi,0,0,0,,I might as well ask. What are you bringing that for?
+Dialogue: 0,0:00:11.78,0:00:14.78,Inugami-Main,Hiiragi,0,0,0,,{\i1}I can see where this is going,\Nand it won't be pretty.
+Dialogue: 0,0:00:15.11,0:00:18.56,Inugami-Main,Hiiragi,0,0,0,,I might as well ask.\NWhat are you bringing that for?
 Dialogue: 0,0:00:18.56,0:00:19.79,Inugami-Main,Inugami,0,0,0,,Well that would be...
 Dialogue: 0,0:00:19.79,0:00:22.79,Inugami-Main,Inugami,0,0,0,,To make Nekoyama-san drink it, of course.
 Dialogue: 0,0:00:23.19,0:00:25.29,Inugami-Main,Hiiragi,0,0,0,,{\i1}I knew it already, but she looks absolutely evil.
@@ -90,7 +89,7 @@ Dialogue: 0,0:02:48.81,0:02:49.81,Inugami-Main,Inugami,0,0,0,,But...
 Dialogue: 0,0:02:50.20,0:02:52.35,Inugami-Main,Inugami,0,0,0,,Oh gosh, I could get addicted to it!
 Dialogue: 0,0:02:52.35,0:02:55.82,Inugami-Main,Inugami,0,0,0,,So please! Give me back my catnip tea!
 Dialogue: 0,0:02:56.68,0:02:59.24,Inugami-Main,Nekoyama,0,0,0,,Wh-What was that just now...{just now, no?}{yeah. youre right. i have a habit of interchanging them a lot in convos.}
-Dialogue: 0,0:03:01.15,0:03:03.16,Inugami-Main,Nekoyama,0,0,0,,I think I'm going to die if I think any further about it.
+Dialogue: 0,0:03:01.15,0:03:03.16,Inugami-Main,Nekoyama,0,0,0,,I think I'm going to die\Nif I think any further about it.
 Comment: 0,0:03:03.16,0:03:05.16,Inugami-Main,,0,0,0,,OP
 Dialogue: 10,0:03:03.67,0:03:06.16,OP-Rom,,0,0,0,,{\fad(200,200)\be1\an7}wan wan wan neko ga suki
 Dialogue: 10,0:03:06.16,0:03:09.18,OP-Rom,,0,0,0,,{\fad(200,200)\be1\an7}muchuu de nani mo mienai
