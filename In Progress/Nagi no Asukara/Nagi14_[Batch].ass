@@ -13,8 +13,8 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Last Style Storage: Nagi
 Video Zoom Percent: 1.000000
-Scroll Position: 683
-Active Line: 688
+Scroll Position: 319
+Active Line: 334
 Video Position: 11135
 
 [V4+ Styles]
@@ -371,11 +371,11 @@ Dialogue: 10,0:21:51.70,0:21:53.65,Nagi-Default,Miuna,0,0,0,,{\i1}Hikari's open 
 Dialogue: 10,0:21:54.33,0:21:56.70,Nagi-Default,Miuna,0,0,0,,{\i1}were frozen wide in sorrow,
 Dialogue: 10,0:21:57.48,0:21:59.10,Nagi-Default,Miuna,0,0,0,,{\i1}just like the calm sea.
 Comment: 10,0:00:00.00,0:00:00.00,Nagi-Default,,0,0,0,,ED
-Dialogue: 10,0:23:30.87,0:23:31.93,Nagi-Default,Tsumugu,0,0,0,,Hikari returned to us.
+Dialogue: 10,0:23:30.87,0:23:31.93,Nagi-Default,Tsumugu,0,0,0,,Hikari's back.
 Dialogue: 10,0:23:31.93,0:23:34.04,Nagi-Default,Hikari,0,0,0,,You look like you've seen a ghost.
-Dialogue: 10,0:23:34.04,0:23:35.98,Nagi-Default,Sayu,0,0,0,,Who'd've thought this would happen?
-Dialogue: 10,0:23:35.98,0:23:37.45,Nagi-Default,Chisaki,0,0,0,,I've changed since then.
-Dialogue: 10,0:23:37.45,0:23:39.83,Nagi-Default,Miuna,0,0,0,,Hikari came back...
+Dialogue: 10,0:23:34.04,0:23:35.98,Nagi-Default,Sayu,0,0,0,,This is pretty crazy, yeah?
+Dialogue: 10,0:23:35.98,0:23:37.45,Nagi-Default,Chisaki,0,0,0,,Have I changed since then?
+Dialogue: 10,0:23:37.45,0:23:39.83,Nagi-Default,Miuna,0,0,0,,Hikari came back!
 Comment: 0,0:23:39.83,0:23:41.83,Nagi-Default,,0,0,0,,OP
 Comment: 0,0:00:48.94,0:00:53.28,OP2-Rom,,0,0,0,karaoke,{\k12}{\k14}fu{\k16}ri{\k14}tsu{\k15}mo{\k27}ru {\k26}ko{\k27}na{\k31}yu{\k31}ki {\k25}ga {\k30}ma{\k141}u{\k25}
 Comment: 0,0:00:53.48,0:00:56.69,OP2-Rom,,0,0,0,karaoke,{\k12}{\k15}a{\k13}ki{\k14}ra{\k15}me{\k28}ka{\k28}ke{\k28}ta {\k25}yu{\k32}me {\k27}ga {\k30}ma{\k27}ta{\k27}
