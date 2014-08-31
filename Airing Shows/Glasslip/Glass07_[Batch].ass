@@ -11,14 +11,14 @@ PlayResY: 720
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
-Audio File: ../../../../../../../Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
-Video File: ../../../../../../../Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
+Audio File: D:/Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
+Video File: D:/Fansubbing/Kaylith/Glasslip/07/glasslip07_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 299
-Active Line: 310
-Video Position: 31020
+Video Zoom Percent: 0.875000
+Scroll Position: 137
+Active Line: 141
+Video Position: 15945
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,7 +179,7 @@ Dialogue: 10,0:10:19.77,0:10:22.01,Glasslip-Main,Coach,0,0,0,,If you need anythi
 Dialogue: 10,0:10:22.42,0:10:25.53,Glasslip-Main,Coach,0,0,0,,Oh, but I'm leaving for a week-long training camp in two days,
 Dialogue: 10,0:10:25.53,0:10:27.58,Glasslip-Main,Coach,0,0,0,,so call me either before\Nor after that if you could.
 Dialogue: 10,0:11:01.42,0:11:03.51,Glasslip-Main,Hina,0,0,0,,I see you're already up and working, Onee-san.
-Dialogue: 10,0:11:03.86,0:11:06.69,Glasslip-Main,Touko,0,0,0,,And you're always training hard at club, Hina.
+Dialogue: 10,0:11:03.86,0:11:06.69,Glasslip-Main,Touko,0,0,0,,And you're always training hard at club, Hina-chan.
 Dialogue: 10,0:11:07.59,0:11:08.52,Glasslip-Main,Hina,0,0,0,,Oh, right.
 Dialogue: 10,0:11:08.52,0:11:09.44,Glasslip-Main,Touko,0,0,0,,Hm?
 Dialogue: 10,0:11:10.10,0:11:12.05,Glasslip-Main,Hina,0,0,0,,I saw Yukinari-san yesterday.
