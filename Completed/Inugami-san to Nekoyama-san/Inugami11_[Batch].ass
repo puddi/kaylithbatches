@@ -17,9 +17,9 @@ Video File: D:/Fansubbing/Kaylith/Inugami BD/11/inugami11 premux 720p[501D6F3F].
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 33
-Active Line: 47
-Video Position: 2693
+Scroll Position: 101
+Active Line: 106
+Video Position: 5039
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,3 +136,5 @@ Dialogue: 0,0:01:10.17,0:01:11.17,Signs,,0,0,0,,{\q2\bord8\blur8\c&HFFFFFF&\3c&H
 Dialogue: 1,0:02:47.64,0:02:48.64,Signs,,0,0,0,,{\q2\blur0.6\c&H43C27D&\fs40\fnHira v8\b1\pos(966,494)}Inu{\c&H353B4B&}gami-san {\c&HB889F9&}& {\c&HA9CA81&}Neko{\c&H353B4B&}yama-san
 Dialogue: 0,0:02:47.64,0:02:48.64,Signs,,0,0,0,,{\q2\bord8\blur8\c&HFFFFFF&\3c&HFFFFFF&\fs40\fnHira v8\b1\pos(966,494)}Inugami-san & Nekoyama-san
 Dialogue: 0,0:03:27.18,0:03:29.98,Illustation Sign,,0,0,0,,{\blur0.4\c&HFFFFFF&\pos(170,646)}Illustration:\NTakenashi Eri
+Dialogue: 0,0:03:27.18,0:03:29.98,Signs,,0,0,0,,{\bord0.1\blur0.5\fs20\fnchinacat\c&H6F6AFA&\3c&H9D9CBE&\frz18.42\pos(840.667,92.667)\b1}Kitty\NPunch
+Dialogue: 1,0:03:27.18,0:03:29.98,Signs,,0,0,0,,{\blur0.5\fs20\fnchinacat\c&H6F6AFA&\frz18.42\pos(840.667,92.667)\b1}Kitty\NPunch
