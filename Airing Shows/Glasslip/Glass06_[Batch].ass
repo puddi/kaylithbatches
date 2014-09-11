@@ -748,7 +748,7 @@ Dialogue: 1,0:19:40.28,0:19:42.78,Signs,,0,0,0,,{\blur0.7\fs12\c&HFFFFFF&\fnKozu
 Dialogue: 2,0:19:40.28,0:19:42.78,Signs,,0,0,0,,{\blur0.7\fs12\c&H9F9992&\fnKozuka Gothic Pro M - ENG\b0\fax-0.03\frz1.745\pos(468.6,400.709)}High School
 Dialogue: 0,0:19:40.28,0:19:42.78,Signs,,0,0,0,,{\blur0.7\fs12\c&H000000&\fnKozuka Gothic Pro M - ENG\b0\fax-0.03\1a&H64&\frz1.745\pos(468.1,400.209)}High School
 Dialogue: 1,0:19:40.28,0:19:42.78,Signs,,0,0,0,,{\blur0.7\fs12\c&HFFFFFF&\fnKozuka Gothic Pro M - ENG\b0\fax-0.03\1a&H64&\frz1.745\pos(469.1,401.209)}High School
-Dialogue: 1,0:23:35.31,0:23:38.56,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(1020.861,492.586)}Episode 7
+Dialogue: 0,0:23:35.31,0:23:38.56,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(1020.861,492.586)}Episode 7
 Dialogue: 1,0:23:35.31,0:23:38.56,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(1020.861,492.586)}Episode 7
 Dialogue: 0,0:23:35.31,0:23:38.56,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\c&H000000&\1a&H8C&\pos(1018.718,711.871)}Bicycle
 Dialogue: 1,0:23:35.31,0:23:38.56,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(1018.718,711.871)}Bicycle

@@ -651,7 +651,7 @@ Dialogue: 0,0:06:29.24,0:06:31.49,ChhSigns,,0,0,0,,{=331}{\fs32\be1\c&H2E403D&\b
 Dialogue: 1,0:06:29.24,0:06:31.49,ChhSigns,,0,0,0,,{=331}{\fs32\blur0.8\c&H2E403D&\b1\fax0.04\pos(594,333)\frz344.4}I{*\frz344.062}n{*\frz343.723}a{*\frz343.385}g{*\frz343.046}a{*\frz342.708}k{*\frz342.369}i {*\frz341.692}T{*\frz341.354}a{*\frz341.015}r{*\frz340.677}u{*\frz340.338}h{\frz-20}o
 Comment: 0,0:14:23.59,0:14:24.84,ChhSigns,,0,0,0,,{=333}{\fs32\be1\c&HC6BEAD&\b1\fax-0.02\frz4.523\pos(535.018,314.673)}Kazemichi
 Comment: 1,0:14:23.59,0:14:24.84,ChhSigns,,0,0,0,,{=333}{\fs32\blur0.8\c&HC6BEAD&\b1\fax-0.02\frz4.523\pos(535.018,314.673)}Kazemichi
-Dialogue: 1,0:23:37.56,0:23:39.18,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(1018.219,485.763)}Episode 11
+Dialogue: 0,0:23:37.56,0:23:39.18,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(1018.219,485.763)}Episode 11
 Dialogue: 1,0:23:37.56,0:23:39.18,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(1018.219,485.763)}Episode 11
 Dialogue: 0,0:23:37.56,0:23:39.18,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\c&H000000&\1a&H8C&\pos(1014.648,715.822)}Piano
 Dialogue: 1,0:23:37.56,0:23:39.18,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(1014.648,715.822)}Piano

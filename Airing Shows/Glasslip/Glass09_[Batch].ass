@@ -1843,7 +1843,7 @@ Comment: 1,0:16:14.28,0:16:26.29,Signs,,0,0,0,,{\blur0.7\fs22\fnGlenns Hand\b1\f
 Comment: 0,0:16:14.28,0:16:26.29,Signs,,0,0,0,,{\blur0.7\fs22\fnGlenns Hand\b1\fax-0.4\c&H000000&\1a&H64&\pos(993.787,504.802)\frz16.7}Bridge
 Comment: 2,0:16:14.28,0:16:26.29,Signs,,0,0,0,,{\blur0.7\fs22\fnGlenns Hand\b1\fax-0.4\c&H2A3143&\pos(994.287,505.302)\frz16.7}Bridge
 Comment: 1,0:16:14.28,0:16:26.29,Signs,,0,0,0,,{\blur0.7\fs22\fnGlenns Hand\b1\fax-0.4\c&HFFFFFF&\1a&H64&\pos(994.787,505.802)\frz16.7}Bridge
-Dialogue: 1,0:23:36.56,0:23:38.52,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(952.886,88.43)}Episode 10
+Dialogue: 0,0:23:36.56,0:23:38.52,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\alpha&HC0&\c&H000000&\pos(952.886,88.43)}Episode 10
 Dialogue: 1,0:23:36.56,0:23:38.52,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(952.886,88.43)}Episode 10
 Dialogue: 0,0:23:36.56,0:23:38.52,Names/EpTitles,,0,0,0,,{\blur5.076\an2\fs64\fscy100\c&H000000&\1a&H8C&\pos(949.315,318.489)}Jonathan
 Dialogue: 1,0:23:36.56,0:23:38.52,Names/EpTitles,,0,0,0,,{\blur0.5\an2\fs64\fscy100\pos(949.315,318.489)}Jonathan
