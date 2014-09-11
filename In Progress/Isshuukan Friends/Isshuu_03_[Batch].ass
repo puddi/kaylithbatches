@@ -47,11 +47,10 @@ Dialogue: 10,0:02:21.87,0:02:24.95,Isshuu-Main,Hase,0,0,0,,Each one tastes a lit
 Dialogue: 10,0:02:25.58,0:02:28.82,Isshuu-Main,Hase,0,0,0,,I'm happy enough that someone's making food for me...
 Dialogue: 10,0:02:29.97,0:02:31.07,Isshuu-Main,Hase,0,0,0,,Guess I'll try some.
 Dialogue: 10,0:02:34.13,0:02:35.19,Isshuu-Main,Hase,0,0,0,,This is good!
-Dialogue: 10,0:02:36.30,0:02:36.92,Isshuu-Main,Kaori,0,0,0,,Try this one next.
-Dialogue: 10,0:02:37.59,0:02:38.70,Isshuu-Main,Kaori,0,0,0,,Tell me what you think!{Next, this one. / Try this next.}{docchi ga ii desu ka? puddi}{socchi ga ii}
+Dialogue: 10,0:02:36.30,0:02:38.70,Isshuu-Main,Kaori,0,0,0,,Try this one next.
 Dialogue: 10,0:02:39.14,0:02:39.78,Isshuu-Main,Hase,0,0,0,,Got it.
 Dialogue: 10,0:02:41.59,0:02:43.08,Isshuu-Main,Hase,0,0,0,,This one's good, too!
-Dialogue: 10,0:02:43.08,0:02:46.80,Isshuu-Main,Hase,0,0,0,,It's a bit sweeter than the other one, but it's good in its own right.
+Dialogue: 10,0:02:43.08,0:02:46.80,Isshuu-Main,Hase,0,0,0,,It's a lot sweeter than the other one, but it's good in its own right.
 Dialogue: 10,0:02:46.80,0:02:48.13,Isshuu-Main,Kaori,0,0,0,,Try this one, too.
 Dialogue: 10,0:02:48.82,0:02:50.58,Isshuu-Main,Hase,0,0,0,,Okay, I will, but...
 Dialogue: 10,0:02:50.58,0:02:54.23,Isshuu-Main,Hase,0,0,0,,Fujimiya-san, do you mind if I take my time eating these?
@@ -62,10 +61,10 @@ Dialogue: 10,0:03:07.92,0:03:11.17,Isshuu-Main,Kaori,0,0,0,,That's 18 grams of s
 Dialogue: 10,0:03:13.10,0:03:16.59,Isshuu-Main,Kaori,0,0,0,,I'll keep this in mind the next time I make omelettes for you.
 Dialogue: 10,0:03:18.44,0:03:21.97,Isshuu-Main,Hase,0,0,0,,I'm sure that anything you make would be delicious.
 Dialogue: 10,0:03:22.64,0:03:23.68,Isshuu-Main,Kaori,0,0,0,,Thank you.
-Dialogue: 10,0:03:24.76,0:03:28.19,Isshuu-Main,Kaori,0,0,0,,You know, I've always{"zutto" right} wanted something like this.
-Dialogue: 10,0:03:29.29,0:03:33.95,Isshuu-Main,Kaori,0,0,0,,Spending lunchtime chatting and eating with friends...{I heard something about oishii something pls TLC puddi}{F257: I always thought it tastes better when eating with friends...}{literally it's "Eating and saying how the food's good but}
+Dialogue: 10,0:03:24.76,0:03:28.19,Isshuu-Main,Kaori,0,0,0,,You know, I've always wanted something like this.
+Dialogue: 10,0:03:29.29,0:03:33.95,Isshuu-Main,Kaori,0,0,0,,Enjoying lunch with friends and talking about how good the food is...
 Dialogue: 10,0:03:34.73,0:03:35.96,Isshuu-Main,Hase,0,0,0,,Fujimiya-san...
-Dialogue: 10,0:03:36.40,0:03:39.03,Isshuu-Main,Kaori,0,0,0,,And having them taste the food I made...{ew}
+Dialogue: 10,0:03:36.40,0:03:39.03,Isshuu-Main,Kaori,0,0,0,,But for it to have happened over my cooking, no less...{ew}
 Dialogue: 10,0:03:40.27,0:03:41.90,Isshuu-Main,Kaori,0,0,0,,It's like a dream come true. {<3<3<3}{It's a luxury.}{ew}{immediate mind-voice of mercedes-benz commercial narrator dude}{gj conks}
 Dialogue: 10,0:03:44.13,0:03:46.45,Isshuu-Main,Hase,0,0,0,,If you're fine with me, then from here on out...
 Dialogue: 10,0:03:46.78,0:03:47.45,Isshuu-Main,Kaori,0,0,0,,What?
@@ -77,7 +76,7 @@ Dialogue: 10,0:04:12.66,0:04:17.90,Isshuu-Main,Hase,0,0,0,,I shouldn't be so gla
 Dialogue: 10,0:04:18.46,0:04:19.46,Isshuu-Main,Shougo,0,0,0,,What're you up to?
 Dialogue: 10,0:04:20.16,0:04:20.90,Isshuu-Main,Hase,0,0,0,,Shougo...
 Dialogue: 10,0:04:21.63,0:04:23.40,Isshuu-Main,Shougo,0,0,0,,Weren't you with Fujimiya?
-Dialogue: 10,0:04:29.41,0:04:31.67,Isshuu-Main,Hase,0,0,0,,Explaining would take a while.{but it's not a long story so}
+Dialogue: 10,0:04:29.41,0:04:31.67,Isshuu-Main,Hase,0,0,0,,Explaining would take a while, so don't worry about it.{but it's not a long story so}
 Dialogue: 10,0:04:32.08,0:04:34.37,Isshuu-Main,Shougo,0,0,0,,Hey, less work for me.
 Dialogue: 10,0:04:42.52,0:04:44.51,Isshuu-Main,Inoue,0,0,0,,All right, let's solve this problem.
 Dialogue: 10,0:04:45.26,0:04:46.06,Isshuu-Main,Inoue,0,0,0,,Fujimiya?
@@ -93,7 +92,7 @@ Dialogue: 10,0:05:33.37,0:05:36.93,Isshuu-Main,Hase,0,0,0,,Do you hate Fujimiya-
 Dialogue: 10,0:05:36.93,0:05:38.02,Isshuu-Main,Shougo,0,0,0,,Not really.
 Dialogue: 10,0:05:38.64,0:05:42.43,Isshuu-Main,Shougo,0,0,0,,Whether or not you socialize with people is your own business.
 Dialogue: 10,0:05:42.43,0:05:44.65,Isshuu-Main,Shougo,0,0,0,,I couldn't care less about those rumors about her, either.
-Dialogue: 10,0:05:45.16,0:05:49.56,Isshuu-Main,Shougo,0,0,0,,I'm not gonna pass judgment without even talking to her.{is this too much}
+Dialogue: 10,0:05:45.16,0:05:49.56,Isshuu-Main,Shougo,0,0,0,,I'm not gonna judge her without even talking to her myself.
 Dialogue: 10,0:05:49.56,0:05:50.87,Isshuu-Main,Hase,0,0,0,,Shougo...
 Dialogue: 10,0:05:51.25,0:05:53.94,Isshuu-Main,Shougo,0,0,0,,She certainly lacks in the smiles department, though...
 Dialogue: 10,0:05:53.94,0:05:56.21,Isshuu-Main,Hase,0,0,0,,You're one to talk.
