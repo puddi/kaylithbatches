@@ -293,12 +293,12 @@ Dialogue: 10,0:20:58.24,0:21:01.61,Glasslip-Main,Yuki,0,0,0,,I need to talk to T
 Dialogue: 10,0:21:05.57,0:21:08.52,Glasslip-Main,Yanagi,0,0,0,,It's been a while since we've been to Kazemichi. Wanna go?
 Dialogue: 10,0:21:08.52,0:21:09.62,Glasslip-Main,Yuki,0,0,0,,I guess.
 Comment: 10,0:21:59.88,0:23:29.84,Glasslip-Main,,0,0,0,,ED
-Dialogue: 10,0:23:30.78,0:23:32.97,Glasslip-Main,Kakeru,0,0,0,,Anyway, can you guys introduce yourselves?
+Dialogue: 10,0:23:30.78,0:23:32.97,Glasslip-Main,Kakeru,0,0,0,,Guys, introduce yourselves too.
 Dialogue: 10,0:23:32.97,0:23:33.97,Glasslip-Main,Hiro,0,0,0,,I'm Shirosaki Hiro.
 Dialogue: 10,0:23:33.97,0:23:34.97,Glasslip-Main,Yanagi,0,0,0,,Takayama Yanagi.
 Dialogue: 10,0:23:34.97,0:23:36.07,Glasslip-Main,Yuki,0,0,0,,I'm Imi Yukinari.
 Dialogue: 10,0:23:36.07,0:23:38.06,Glasslip-Main,Sachi,0,0,0,,I'm Nagamiya Sachi.
-Dialogue: 10,0:23:38.06,0:23:39.85,Glasslip-Main,Touko,0,0,0,,{\an1}Um, can you see me?
+Dialogue: 10,0:23:38.06,0:23:39.85,Glasslip-Main,Touko,0,0,0,,{\an1}Um, you can see me?
 Comment: 0,0:23:39.85,0:23:41.85,Glasslip-Main,,0,0,0,,INSERT
 Dialogue: 3,0:12:29.42,0:12:38.37,OP-Rom,,0,0,0,,{\an7\fad(250,250)\be1\fs36}oikaketemo oikaketemo todokanai yuki no you na
 Dialogue: 3,0:12:38.37,0:12:46.96,OP-Rom,,0,0,0,,{\an7\fad(250,250)\be1\fs36}kotoba de arawasenai kanjou mitsuketayo
