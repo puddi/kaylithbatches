@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Tokyo ESP
-Audio File: Tokyo ESP - 11 premux[94AE5DDA].mkv
-Video File: Tokyo ESP - 11 premux[94AE5DDA].mkv
-Keyframes File: Tokyo ESP - 11 premux[94AE5DDA]_keyframes.log
+Audio File: D:/Fansubbing/Kaylith/Tokyo ESP/11/Tokyo ESP - 11 premux[94AE5DDA].mkv
+Video File: D:/Fansubbing/Kaylith/Tokyo ESP/11/Tokyo ESP - 11 premux[94AE5DDA].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 251
-Active Line: 263
-Video Position: 31572
+Video Zoom Percent: 0.500000
+Scroll Position: 12
+Active Line: 31
+Video Position: 7317
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -74,7 +73,7 @@ Dialogue: 100,0:04:44.80,0:04:46.84,ESP-Main,Rinka,0,0,0,,{\i1}What would Azuma-
 Dialogue: 100,0:04:48.30,0:04:52.31,ESP-Main,Azuma,0,0,0,,{\i1}That's why it's our duty to uphold justice!
 Dialogue: 100,0:04:52.31,0:04:56.48,ESP-Main,Azuma,0,0,0,,{\fad(0,518)\i1}Only those with a power like this can do anything about it.
 Dialogue: 100,0:05:00.90,0:05:02.78,ESP-Main,Rinka,0,0,0,,Azuma-san would definitely...
-Dialogue: 100,0:05:03.61,0:05:05.86,ESP-Main,Rinka,0,0,0,,throw himself at it with everything he had!
+Dialogue: 100,0:05:03.61,0:05:05.86,ESP-Main,Rinka,0,0,0,,keep forging ahead with all his strength!
 Dialogue: 100,0:05:13.70,0:05:14.75,ESP-Main,Azuma,0,0,0,,All right.
 Dialogue: 100,0:05:14.75,0:05:17.71,ESP-Main,Azuma,0,0,0,,This should be enough food\Nand water to last me for a while.
 Dialogue: 100,0:05:18.38,0:05:21.05,ESP-Main,Azuma,0,0,0,,All I need to do now\Nis teleport the raft with me
