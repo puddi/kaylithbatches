@@ -17,8 +17,8 @@ Keyframes File: esp 12 premux[2F8D33ED]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 252
-Active Line: 261
+Scroll Position: 204
+Active Line: 209
 Video Position: 34206
 
 [V4+ Styles]
@@ -251,7 +251,7 @@ Dialogue: 10,0:19:40.36,0:19:43.03,ESP-Main,Azuma,0,0,0,,Why, of all people,\Ndo
 Dialogue: 10,0:19:43.73,0:19:46.54,ESP-Main,Azuma,0,0,0,,You had countless opportunities to kill me!
 Dialogue: 10,0:19:47.66,0:19:52.89,ESP-Main,Azuma,0,0,0,,Was your reason for saving me that day\Nthat you wanted someone to stop you?!
 Dialogue: 10,0:19:53.67,0:19:54.58,ESP-Main,Professor,0,0,0,,You're wrong.
-Dialogue: 10,0:19:55.90,0:19:59.55,ESP-Main,Professor,0,0,0,,It was because sensed a miracle within you.
+Dialogue: 10,0:19:55.90,0:19:59.55,ESP-Main,Professor,0,0,0,,It was because I sensed a miracle within you.
 Dialogue: 10,0:20:07.38,0:20:10.48,ESP-Main,Professor,0,0,0,,This is all part of a greater plan.
 Dialogue: 10,0:20:31.66,0:20:33.21,ESP-Main,Rinka,0,0,0,,Azuma-san.
 Dialogue: 10,0:20:36.84,0:20:37.75,ESP-Main,Azuma,0,0,0,,Professor!
