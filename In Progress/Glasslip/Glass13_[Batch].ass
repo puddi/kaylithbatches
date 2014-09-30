@@ -12,14 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Glasslip
-Audio File: glasslip13_premux.mkv
-Video File: glasslip13_premux.mkv
+Audio File: D:/Fansubbing/Kaylith/Glasslip/13/glasslip13_premux.mkv
+Video File: D:/Fansubbing/Kaylith/Glasslip/13/glasslip13_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 313
-Active Line: 330
-Video Position: 28798
+Video Zoom Percent: 0.875000
+Scroll Position: 420
+Active Line: 424
+Video Position: 28932
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -433,15 +433,15 @@ Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HC7
 Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H65664A&\c&H65664A&\b1\pos(839.33,171.314)}Fukui
 Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H65664A&\c&H65664A&\b1\pos(840.03,172.014)}Fukui
 Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HC7E3D3&\frz0.5732\blur0.6\b1\pos(839.33,171.314)}Fukui
-Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H65664A&\c&H65664A&\b1\pos(975.419,126.114)}Hikone
-Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H65664A&\c&H65664A&\b1\pos(976.119,126.814)}Hikone
-Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HCCF3EC&\frz0.5732\blur0.6\b1\pos(975.419,126.114)}Hikone
+Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H65664A&\c&H65664A&\b1\pos(975.419,126.114)}Kanazawa
+Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H65664A&\c&H65664A&\b1\pos(976.119,126.814)}Kanazawa
+Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HCCF3EC&\frz0.5732\blur0.6\b1\pos(975.419,126.114)}Kanazawa
 Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H65664A&\c&H65664A&\b1\pos(944.956,225.111)}Ono
 Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H65664A&\c&H65664A&\b1\pos(945.956,225.811)}Ono
 Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HCCF3EC&\frz0.5732\blur0.6\b1\pos(944.956,225.111)}Ono
-Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H425A4B&\c&H425A4B&\b1\pos(918.956,347.611)}Kanazawa
-Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H425A4B&\c&H425A4B&\b1\pos(919.956,348.311)}Kanazawa
-Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HD8FEFD&\frz0.5732\blur0.6\b1\pos(918.956,347.611)}Kanazawa
+Dialogue: 1,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H425A4B&\c&H425A4B&\b1\pos(918.956,347.611)}Hikone
+Dialogue: 0,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H425A4B&\c&H425A4B&\b1\pos(919.956,348.311)}Hikone
+Dialogue: 2,0:16:14.53,0:16:18.41,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&HD8FEFD&\frz0.5732\blur0.6\b1\pos(918.956,347.611)}Hikone
 Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs16\bord0.6\fnCCComicrazy-Roman\c&HE3A85F&\frz0.5732\3c&H999A96&\blur0.6\pos(663.821,149.608)\b1}Tonight's Forecast
 Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs16\fnCCComicrazy-Roman\c&H75634B&\frz0.5732\blur0.7\pos(663.821,149.608)\b1}Tonight's Forecast
 Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\pos(604.8,316)\b1}Maizuru
@@ -456,15 +456,15 @@ Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71
 Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(839.33,171.314)}Fukui
 Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(840.03,172.014)}Fukui
 Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(839.33,171.314)}Fukui
-Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(975.419,126.114)}Hikone
-Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(976.119,126.814)}Hikone
-Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(975.419,126.114)}Hikone
+Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(975.419,126.114)}Kanazawa
+Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(976.119,126.814)}Kanazawa
+Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(975.419,126.114)}Kanazawa
 Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(944.956,225.111)}Ono
 Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(945.956,225.811)}Ono
 Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(944.956,225.111)}Ono
-Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(918.956,347.611)}Kanazawa
-Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(919.956,348.311)}Kanazawa
-Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(918.956,347.611)}Kanazawa
+Dialogue: 1,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord0.6\3c&H44473B&\c&H44473B&\b1\pos(918.956,347.611)}Hikone
+Dialogue: 0,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\frz0.5732\blur0.6\bord1\3c&H44473B&\c&H44473B&\b1\pos(919.956,348.311)}Hikone
+Dialogue: 2,0:16:18.41,0:16:18.45,Signs,,0,0,0,,{\fs15\fnCCComicrazy-Roman\c&H71827D&\frz0.5732\blur0.6\b1\pos(918.956,347.611)}Hikone
 Dialogue: 0,0:20:06.68,0:20:08.68,Signs,,0,0,0,,{\be1\fnRoboto\c&HEBDCC9&\fax0.25\frz274\pos(40,331.556)}Historical Atlus
 Dialogue: 1,0:20:06.68,0:20:08.68,Signs,,0,0,0,,{\blur0.6\fnRoboto\c&HEBDCC9&\fax0.25\frz274\pos(40,331.556)}Historical Atlus
 Dialogue: 0,0:20:06.68,0:20:08.68,Signs,,0,0,0,,{\be1\fnRoboto\c&H997156&\fs20\fax0.28\frz274\pos(87.222,429.299)\clip(m 89 372 l 96 500 136 487 128 358)}Introduction\N\h\hTo Literature

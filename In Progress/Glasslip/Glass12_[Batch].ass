@@ -11,14 +11,14 @@ PlayResY: 720
 Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
-Audio File: glasslip12_premux.mkv
-Video File: glasslip12_premux.mkv
-Keyframes File: glasslip12_premux_keyframes.log
+Audio File: D:/Fansubbing/Kaylith/Glasslip/12/glasslip12_premux.mkv
+Video File: D:/Fansubbing/Kaylith/Glasslip/12/glasslip12_premux.mkv
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
+Video Zoom Percent: 0.750000
 Scroll Position: 259
-Active Line: 265
-Video Position: 28571
+Active Line: 274
+Video Position: 33967
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -310,10 +310,10 @@ Dialogue: 0,0:20:05.64,0:20:06.74,Glasslip-Main,Touko,0,0,0,,{\i1}Isn't that rig
 Dialogue: 0,0:20:07.30,0:20:08.46,Glasslip-Main,Touko,0,0,0,,{\i1}Kakeru-kun?
 Dialogue: 0,0:21:27.40,0:21:30.29,Glasslip-Main,Touko,0,0,0,,It's... It's nothing.
 Comment: 0,0:22:00.92,0:23:30.88,Glasslip-Main,,0,0,0,,ED
-Dialogue: 0,0:23:31.71,0:23:33.07,Glasslip-Main,Sachi,0,0,0,,Touko's a beautiful name.
-Dialogue: 0,0:23:33.07,0:23:34.23,Glasslip-Main,Hiro,0,0,0,,I'll ask you later.
-Dialogue: 0,0:23:34.23,0:23:35.56,Glasslip-Main,Yanagi,0,0,0,,Fulfill your promise.
-Dialogue: 0,0:23:35.56,0:23:36.73,Glasslip-Main,Yuki,0,0,0,,Is it broken?
+Dialogue: 0,0:23:31.71,0:23:33.07,Glasslip-Main,Sachi,0,0,0,,I think "Touko" is a beautiful name.
+Dialogue: 0,0:23:33.07,0:23:34.23,Glasslip-Main,Hiro,0,0,0,,You can tell me later.
+Dialogue: 0,0:23:34.23,0:23:35.56,Glasslip-Main,Yanagi,0,0,0,,I'm calling in your promise.
+Dialogue: 0,0:23:35.56,0:23:36.73,Glasslip-Main,Yuki,0,0,0,,Have you changed?
 Dialogue: 0,0:23:36.73,0:23:37.86,Glasslip-Main,Kakeru,0,0,0,,It's all my fault.
 Dialogue: 0,0:23:39.12,0:23:40.28,Glasslip-Main,Touko,0,0,0,,Don't go.
 Comment: 0,0:23:40.28,0:23:42.28,Glasslip-Main,,0,0,0,,(ﾉಥ益ಥ）ﾉ ┻━┻　/（。□。ハNooo, my firstborn!
