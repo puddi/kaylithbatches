@@ -9,8 +9,8 @@ PlayResX: 1280
 PlayResY: 720
 Video Aspect Ratio: c1.77778
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 675
-Aegisub Active Line: 697
+Aegisub Scroll Position: 185
+Aegisub Active Line: 186
 Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
@@ -221,7 +221,7 @@ Dialogue: 10,0:12:09.31,0:12:11.08,Nagi-Default,Kaname,0,0,0,,we'll be banished 
 Comment: 10,0:00:00.00,0:00:00.00,Nagi-Default,,0,0,0,,Eyecatch
 Dialogue: 10,0:12:18.20,0:12:19.56,Nagi-Default,Manaka,0,0,0,,Banished?!
 Dialogue: 10,0:12:19.56,0:12:21.88,Nagi-Default,Hikari,0,0,0,,Don't throw around heavy words like that!
-Dialogue: 10,0:12:21.88,0:12:23.38,Nagi-Default,Kaname,0,0,0,,I'm not the one to be yelling at.{## this is in use, though personally dislike it; "be yelled at here." is a safer option, as would be "I'm not the one you should be yelling at."}
+Dialogue: 10,0:12:21.88,0:12:23.38,Nagi-Default,Kaname,0,0,0,,I'm not the one you should be yelling at.{## was: I'm not the one to be yelling at.}
 Dialogue: 10,0:12:23.86,0:12:27.14,Nagi-Default,Kaname,0,0,0,,It was something the village decided long ago.
 Dialogue: 10,0:12:27.14,0:12:28.60,Nagi-Default,Hikari,0,0,0,,I've never heard of it!
 Dialogue: 10,0:12:28.95,0:12:31.50,Nagi-Default,Chisaki,0,0,0,,But Satsuki-san from the candy store,
